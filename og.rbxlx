@@ -1,0 +1,1829 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Workspace" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbAAAXSSXSSAAS">
+		<Properties>
+			<bool name="AllowThirdPartySales">false</bool>
+			<token name="AnimationWeightedBlendFix">0</token>
+			<BinaryString name="AttributesSerialize"/>
+			<token name="ClientAnimatorThrottling">0</token>
+			<string name="CollisionGroups">Default^0^-1</string>
+			<Ref name="CurrentCamera">RBX212736E293FC430DB8B9651ECD5B29A5</Ref>
+			<double name="DistributedGameTime">0</double>
+			<bool name="ExplicitAutoJoints">true</bool>
+			<float name="FallenPartsDestroyHeight">-500</float>
+			<Vector3 name="GlobalWind">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+			</Vector3>
+			<float name="Gravity">196.199997</float>
+			<token name="HumanoidOnlySetCollisionsOnStateChange">0</token>
+			<token name="InterpolationThrottling">0</token>
+			<token name="LevelOfDetail">0</token>
+			<token name="MeshPartHeadsAndAccessories">0</token>
+			<CoordinateFrame name="ModelMeshCFrame">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>1</R00>
+				<R01>0</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>1</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>0</R21>
+				<R22>1</R22>
+			</CoordinateFrame>
+			<SharedString name="ModelMeshData">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+			<Vector3 name="ModelMeshSize">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+			</Vector3>
+			<string name="Name">Workspace</string>
+			<bool name="NeedsPivotMigration">false</bool>
+			<token name="PhysicsSteppingMethod">0</token>
+			<Ref name="PrimaryPart">null</Ref>
+			<token name="ReplicateInstanceDestroySetting">0</token>
+			<token name="Retargeting">0</token>
+			<token name="SignalBehavior">0</token>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs4b501ce176007a367ed69d564dc723b53995c03515737cb01bfc51f41ca300778ca8b25bd5b751b07aa9f16d47cddbb9db18f83215c4aede8f19d3bc0dc20a58651d6163f374cf320bd3b5080d00503b1516b2ce989a79390ed221b0de960efecd60960272acd4ee0d7eb7f4fade539161f1a9004d80a0eb09a5cba918624e2744fda424e42f00ac73700ffc0c8df3628baf278e2d2c5eaca81e48a9bd248f0e286cf3309672df1f39de46c282b7b5bb6e8c0367913ca088490078f071d3c0a8746d3fac81895e7784704e3de3b229f778ae489f7a9118fa934b5d39c27392516f9903d3b281631c1e9abbebfa</int64>
+			<token name="StreamOutBehavior">0</token>
+			<bool name="StreamingEnabled">false</bool>
+			<int name="StreamingMinRadius">64</int>
+			<token name="StreamingPauseMode">0</token>
+			<int name="StreamingTargetRadius">1024</int>
+			<BinaryString name="Tags"/>
+			<bool name="TerrainWeldsFixed">true</bool>
+			<bool name="TouchesUseCollisionGroups">false</bool>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig31c425edefbc1fe5c83b9cfe669e6c22408e865789ab59c64a2142d4f132fcfd1156a3540fa0e7eff5aae0c009f718ec7a44f11d1f573d59006cfc0ed75e0ca475314f3d4f859bab9dd7bc43547653302eb28b4f2d325fd599967ba9ce716f0ed3c4c50a369aa2e2a1cfc8615904d528af836a219131a21e50740c4b489376f5cfd8128b57a97b989c9e46b3cf89595045b54e9a21ff6c9ea71e6b53d0520b9ffab6291709d0a403b921f9de881c2242d471295431f25b10e6f9befab64b210325d0b0c5bdf844ba377829388de4e1b3b0cba29d67abb1e1a345553068f0475cbf96ac123e06d123c17d2873d8a263fc218dab2a8e9da71480453efa4c7f2d8885a6fa5954a045f21ccca422494d72307a8224bc</UniqueId>
+			<OptionalCoordinateFrame name="WorldPivotData">
+				<CFrame>
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CFrame>
+			</OptionalCoordinateFrame>
+		</Properties>
+		<Item class="Camera" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbXSASASSSSSASAASXAA">
+			<Properties>
+				<BinaryString name="AttributesSerialize"/>
+				<CoordinateFrame name="CFrame">
+					<X>29.6412315</X>
+					<Y>7.61510468</Y>
+					<Z>4.40275478</Z>
+					<R00>0.302369982</R00>
+					<R01>-0.22672157</R01>
+					<R02>0.925834656</R02>
+					<R10>-0</R10>
+					<R11>0.971300602</R11>
+					<R12>0.23785542</R12>
+					<R20>-0.953190684</R20>
+					<R21>-0.0719203353</R21>
+					<R22>0.293692112</R22>
+				</CoordinateFrame>
+				<Ref name="CameraSubject">null</Ref>
+				<token name="CameraType">0</token>
+				<float name="FieldOfView">70</float>
+				<token name="FieldOfViewMode">0</token>
+				<CoordinateFrame name="Focus">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>-5</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<bool name="HeadLocked">true</bool>
+				<float name="HeadScale">1</float>
+				<string name="Name">Camera</string>
+				<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs67e00894363a3e6b3167a1f4f9b7b2bab6c436af3908ab2dd4fa830aec1904701c10ebf77200dd6a7a27370c73fa6c170d8e09d7ce713f4dd111c547e2f52b9238e5e99d65ea0da4023cd9a914af053426f89623db46b8a43e685856b0dd64ccf05397c410d3aaea0999429e8c7e9c17d6e4ece291a873284f2f2bdeecd19e5bf70440bf84d75b38ac0d5f84b64f320edf2d20b9da53fc16372087ae0b7a11bafaca3b111eb423243c438071e260211ee3de22f2d777ac7a9ebf56b253f723f37ea9407ac7e6d185bb518b03a3445c7c0b0bca78df7c57893353cc0580f1620cccf00118351fd49818b47873942cd64550edab3ed06b89e838fc3a9ba9f177890b3686d1740ea6</int64>
+				<BinaryString name="Tags"/>
+				<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854igbfd6b59cfb87642b1019e402abacd9b5cef965b31b39b0def5e47e8f7ee7726850cd370ed7edc10848f19c22f9c3f96e4eb06cf06a03b823db1c4c667366168c117d5ad33892c80ae8b6e1206289e12271982089a1fc5d7c6d41288be029af7c45e3b6aa31c4585706340e026997fd7897a0882bcc430a8391590c99259a84789ddf69e2bb246abfdf656dff1ec441c94a528b3bb502c22310675040e8843ee86a662826b6ef5a0dbf360bf86ccda44191937d7ab499622dd3ec5de022315aba3a86dedf5192b0fad0ffee508a0bbde509be0f20e6f21aad9b20c55c92264151fb1b4ac6a7d49672e2c744</UniqueId>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSSAASAAAAAAAA">
+			<Properties>
+				<bool name="Anchored">true</bool>
+				<BinaryString name="AttributesSerialize"/>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">0</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>0</X>
+					<Y>-8</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">true</bool>
+				<bool name="CanQuery">true</bool>
+				<bool name="CanTouch">true</bool>
+				<bool name="CastShadow">true</bool>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4284177243</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">true</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">256</token>
+				<string name="MaterialVariantSerialized"/>
+				<string name="Name">Baseplate</string>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs2d944260f0a3af5b98cc24ee3c0bc14446b8d5012f7ed38c59e90050ee290a629623d92aa1285950ec269a85408365cd7e5abdfeaeef1818604a679ca5a497a9a3a55a03ab3a5b3808b7cebc67c284c3f1f3893075ad5ebe23f13e53724d36b7ad5795976bce4c87da4446972682744a9c1dd536429a39363db16b32243f9e5f78e0332543f05367f4c62601b6a67cc6f034cb1b4bf46dca28242da51a67ea365f05e301f9e09adb6c6f7365a31c00467438d5eedcc224586b5f8ccac7e67b2e58580f4bfa30810682827c8ec188c1d2ae0236d33ffc53e90a956ea86ac30835d5d200af1e78f2ab5927ad6ed357f930abc15460384506a856764a184eb3d3babc1b22b79e8d2999a5f0dac62daaa53990cc513bbe896af1b852981cae5d6c9e0591755ba1b586aca5fc1dd928a64329adc7e7351942e06859cb01744cd31678b707a0118b994d2d99f6126e582161265489b3b8ac4ce77f1875c3ae23b5d6af5fee5ceccaf8593612188ab520713c241c56e7df9a57033903a718adb8c431a4ebc76f8967b5447162f0c6d0534f26c0052ef17342dd93b74ce453af62d2a1ce</int64>
+				<BinaryString name="Tags"/>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">0</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854igce049844018059868424a0de7d400fd87dec2628ef1ea7ce1f7e22fbc7e0e9ced223cd53814848e009b561d217c17504946142d6d3b6be97e69fbcade988b68e526eafe30b5733f08e3de5dff19c5b6d8c9974fe32adaac373e1a778ca925edc4f4e06914b2db8b948bd948b0c7d2230058fadadec64eca4081339880f0a88f06835f65fea86c3bd5bddc28c599dc50187bcef55b50fed6515877f5d63ed4680bc80329def6ac29447439d0045ee78437f78ea9da44980f5d1eb81a1</UniqueId>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<token name="formFactorRaw">0</token>
+				<token name="shape">1</token>
+				<Vector3 name="size">
+					<X>2048</X>
+					<Y>16</Y>
+					<Z>2048</Z>
+				</Vector3>
+			</Properties>
+			<Item class="Texture" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSAAASAAAXAAAAAASX">
+				<Properties>
+					<BinaryString name="AttributesSerialize"/>
+					<Color3 name="Color3">
+						<R>0</R>
+						<G>0</G>
+						<B>0</B>
+					</Color3>
+					<token name="Face">1</token>
+					<string name="Name">Texture</string>
+					<float name="OffsetStudsU">0</float>
+					<float name="OffsetStudsV">0</float>
+					<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs4883bfd05a3075510ddb75648f1306e35f4dd2b8bbca594af0cd6bf392404362ecc738741704d5e9dc9316a5e62cc48a73a598ab86555fc770076c2857cf8860f89147092cc35bd5af0e18c1094cc1d0df63021c2030b6591d0fcccccd237973909ad2eff0432fb97c7780582b996615dea21cf3b93e595a2559a944754906a64ca682b84874eae523a7dba901967828689da7741228501eebc30732c74e8328dd774c8a7bb8d655acf3b69152cb3b980b3e5b280e538a811430154bb17e2113a8ffb67b512109b6d4d54d81b4d43acc93a8d64ba304d9491f34ad4d1176e977444b9dfe9e2b3eb8df092056aafc45810b9b9dd26e1c9266c3c294869b695d4523c98a6bd3a0accdfceb8fd787887272cf662ee44c3d70de0f096a0eacfa907eb052459f57afc29f33222831bb921ee1e142073e5155712d4dbe7275297163861ab9f15bcbf151cfca3356418f6684d97d86e5a166d5ef6151f67a92f571a70735fbe5cc1666a94da4ccd65bc5f912cbc9351ab93d58cceb15cdc6d0ea4890fd8ff06fb240a4812aedbf24f2922cc7a1790f93a2541c6965dc1e26b1aaab25375b918b6a09e32e2a6b71db6968022098f89ee2808baba6803377d908b07cdf0a003978f9f601a03f9f926bd526cc429883c335fb6f68</int64>
+					<float name="StudsPerTileU">8</float>
+					<float name="StudsPerTileV">8</float>
+					<BinaryString name="Tags"/>
+					<Content name="Texture"><url>rbxassetid://6372755229</url></Content>
+					<float name="Transparency">0.800000012</float>
+					<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854igbe99fe35ed8af95a0a562abfa4c2200c5f4a339fc10c746a0f3ac7a30c7d47bb9af01fe5b85970af075ed7ecce718f20d623239c8dcdf2a7d349c5d084b81b24978a23613578ceac2ceff0809228d107a6fc81648f1dcb0b16fbfbbf7c283f9bcc6ab7821202079102d665a1bf68cb962cc0c3832a0fe0d3bfdb506cd6531dde044add8bbe5726df3aa338a360b4098d1e973067442c365359b2a58fc58c028a2e61a58bd33c1836e7c9858212467f081f24a46040cf0f86a7aff28377454556e47bb3a4efbbaa894803cc7dd17c15a78bdb8e7bcaf85623174120b3255dfdac16eec0596e298e9ef8d1b9962d4effa906ddc4eed8e94b82cbc59522ab0009b10d0595fce0596739edef17c4034d06</UniqueId>
+					<int name="ZIndex">1</int>
+				</Properties>
+			</Item>
+		</Item>
+		<Item class="Terrain" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbXAAASSSAASSX">
+			<Properties>
+				<token name="AcquisitionMethod">0</token>
+				<bool name="Anchored">true</bool>
+				<BinaryString name="AttributesSerialize"/>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">4</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">true</bool>
+				<bool name="CanQuery">true</bool>
+				<bool name="CanTouch">true</bool>
+				<bool name="CastShadow">true</bool>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4288914085</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<bool name="Decoration">true</bool>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">true</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">256</token>
+				<BinaryString name="MaterialColors">AAAAAAAAan8/P39rf2Y/ilY+j35fi21PZmxvZbDqw8faiVpHOi4kHh4lZlw76JxKc3trhHta
+gcLgc4RKxr21zq2UlJSM</BinaryString>
+				<string name="MaterialVariantSerialized"/>
+				<string name="Name">Terrain</string>
+				<BinaryString name="PhysicsGrid">AgMAAAAAAAAAAAAAAAA=</BinaryString>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<BinaryString name="SmoothGrid">AQU=</BinaryString>
+				<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs4f0530c54a0f13cd4086e48a305de0370b7ff8a6fdab3ac004f7497091076a2699b12065128cc4ec3474a1570b4e6a79427a34a2a262707f8c8c48999a22ec07b0b33e9656be512caadad4e4310f492079b70193342e267707b04222aa3d984646da57f3f531773379e8238f3db5f0cef835a2a7099e0a5417fbcba1d5fc932585fccb2062687b0cff308a04bfc07b3e58808b9b1b70d58646a54d8ccbe264f79529df329f8289490aee594e4faca9527a64506dc5e01ec49335574587e7751264b0ff2ee391de596e9168851386328b01d678139892ff2203a6ac981fe2015e17c28253e464c338a62c384aafb2e3b59de6c3e05792aa54785ed94bb18a5d603580a274ef937881d3180db54707da343394b05d38935679dcb6733df2d3812ef204a781912ae8212a27ac1030d0d47b984f51e666f22a4a01550f11c37cc351c3e63372ec3cc355036babe033ac924996bc7bb80dba48a6e4fa9be9cd1f682a5580647770b5d8815a51da9f0de6a7bf1a86ffd5e8fd243cdf52f4c3e98913b7d4aa5b8bcf298e05ea65753ea88823b4038bc44849a959064ea257e4547936b5f834b67081b8ce1a3d6d13cf915281aab1c251dddb0f7664850811a1a3b9ccd7e631158fbbde98e999007f0a2b63cdd25629fab6522f38ba012a1b</int64>
+				<BinaryString name="Tags"/>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">3</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig46577452f28679283244c0e82b63ea24fbb254f35f8a0c9b18b58587827280bb4b5d060926df98673eb7e1959fd9fb5b7ae5c2b1e761b466803e2000835b93abf2776d6e6ed7b838af233d2e12f8cb1bd900e8262a3ca607492273afc016dcf70cea6726c3746c0638a791ef77442595d45bb00cbac08119a01e1b0dd0a5513c30206e801527f76b285fd082e60ceafef8e13ea9321ad816fe1e1bcbb06d203009b6556554cc7ff63095a42d751831a114719fb7e8c4f3d5684f4ab53e2cf4f6cf19c224c2d40a698b40b076eb3b648db3e2f9b02f5dd98be7d6bbeb1c60b1c5600afd979093cf7e19bafec94f627f418b6c0af924443f637e</UniqueId>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<Color3 name="WaterColor">
+					<R>0.0470588282</R>
+					<G>0.329411775</G>
+					<B>0.360784322</B>
+				</Color3>
+				<float name="WaterReflectance">1</float>
+				<float name="WaterTransparency">0.300000012</float>
+				<float name="WaterWaveSize">0.150000006</float>
+				<float name="WaterWaveSpeed">10</float>
+				<Vector3 name="size">
+					<X>2044</X>
+					<Y>252</Y>
+					<Z>2044</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+	</Item>
+	<Item class="SoundService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSASSAAXXSSAAASS">
+		<Properties>
+			<token name="AmbientReverb">0</token>
+			<BinaryString name="AttributesSerialize"/>
+			<float name="DistanceFactor">3.32999992</float>
+			<float name="DopplerScale">1</float>
+			<string name="Name">SoundService</string>
+			<bool name="RespectFilteringEnabled">true</bool>
+			<float name="RolloffScale">1</float>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs351fc4b520c68561aec6bc293ffdf22fada4d27e40f89161c5258fc9323606ae6af75ff67710deea8ace80b1a8d3eccaadf7d692a6668dc28cda2c062544d607e3406b227493d1e79ae580f7dfc305ed6af4190877902870c261d19623efdd269f681e464eb4ec220973ff8ad35d2a20e84d97bed590a86e34af214f2327256c450a6042e167ecadaf2f6e627a06aabbe80c53dd0b47b31f1c2fba42c7be76b91140491f987eea70799e6006acbe5e1cb1083b99e95893209f7d65c9fc6409c4f266679c4253af4fbda9d17c27ac68768c8d1fb409fbaef3bdd03da87aeca7926852</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig047dac12e6e0adfaa6f4d1a8b0071f8c2bec459fada230cb819b14e418a2fd67753e74e75e94b3dc679e87c92c07985bb6228eb19ca055435d838d45178ab89ddc841070058b74bbb5c3eaaeb726ca187ffb0f771a0eeddd63cb1f5a0b8341e3817f65af37c2a76289266677b7067594226b68371378dac88b573e85eb1793b1a311c576c890326356c70fd64661bbfcee375116d2d20f11ad96077261c04c27fa24f07b6f49254225c601bcad6367e7e3ff86f1a92f6e7a28756017b8b821b88a38d50973ee1c58adbc3c173fc061e52ee52169c371c38a696aa32b2c3b94ac56a45edad0e12ae7</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="NonReplicatedCSGDictionaryService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbAAASASSSXASASSSAXA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">NonReplicatedCSGDictionaryService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogse16d0d857d8c0daaefd95cd4ccea6ffe0b3ebd28a32dae69c7670ec2cf8a7795a9af8648eba902079fac15211d2844ba927ff59f88723fc7c959ce4274e3b6b8a46a286ba1ddaf0edd89402f8e51bb2a7312d3910fd9ed9760632160ff57c5d1fe931dd89e47bc833dd7107d5d427cdb577bce2be7f7365e0445225533d9c21b0ebdc71fac431b83f88ead5f5f9f945dfc3ec0cba4952b3c730da96f875eb4ee8916d476d35a191589fb3123ebcf189d74d3395791b82d4c8f10dd580e482d85a81a5d1cb2b15b018ab702365847bf76d450582a67568a546c7e0d8ca3238539ae102d6769af7e5a9027bcb45368d902b1b3e02808fd1cdc24207521b13c3a0828ef6c82a169de2cfde787c0075b061dad7380b1a2b7289258ba92942bdb2a8bc2b73f837da083576b6205fec2ff231180130df5ac38e5a6</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig3f5ba22842717478affc6be1fba720341b9069a564bdb03f7cbb3adf5bf0d477eece0e50101e9ed44c604e3cbb20dae4789dbd160a7b25aa94fd97f1621fc523653fabe7f19bfcc1d06f274c5133a2c42c582a5358bf0e7f4e0ba5672d7ccc36e12e7d4cb8b5ce8a0fbc1a08121145270db63328cd13b885d305bbf51bf3bc3d312ec51ad233b35d202abd25ab97ed0b102d52ea355dca02db51d6e7ea63e3e6b689d903d69e2c4d7e86876c1c72b0ebcc3a0897ca4f53768dd3f455619954be311716ad149f1d25d38cf657fcaa742c70c3c15f81ab83d124210dd51a7b8b27a2ef4efcec0231dc515bda09900264d9d807b26518abf8aaad8fd707260e2819b0a82bc40cb427b4</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="CSGDictionaryService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbXXSSSSXXSSSSSS">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">CSGDictionaryService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs8f26b59ffcf7c186f9256e8a3419e9b8543555e988a97f45768cab0b59e89c154c38b9270358ed35bb4f25ac80aebf893dda45ab68c2a9b25961461cb0daec1ee7ba9b1fcb5c4626099a8f2e03b7367c4473f4e8d530945f59299d5b851b20d507ccf25a0413f7c4597b898da96605f28ca6ec719a8e032606de55d4fed7a003f24f76924757ccad767e6d212e6e4c561bd9f87cfbbc332d65384b3132de417f18ef4a2601c722e3262bfab55d2b2c20024f6956b91ea2941958e67b068ea7bdda69c69006f3b934806da3abf6d3c3a88690367ecfb782b314390bfc068952e195ba1dc872163250514563f7e6eedb0b513e14d4c64508b22c0c6fdc94e1581711296c09e0934a71db22d45f52dc5890d6a8ddfc55e864fe</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig39128b2374ed86c1cc2193622eae26087ac9e25a341b182172b1d826c21747b7ed019cfa6ff0e84015bbb422e7ff1e58dfa4866e5cbdbaae33bfb5c288a5e1c4b2efb39484f2c4da9308fe4e2d558c391ac280e728c6db2d1e0a18937b6cb0860194cbf3532b2d8071f09ed9de8c2119ef4418ca719b16aed5577dc7b451ced26bcf99c8c044ceb8a7474d8fb4f17579e2d0093c6987f70c6a3bc6f6bacd2d1dadc38a111a56f31b7f2db4ef5e50c42e425e18381e27e06021caa896bd567c2c06ad6bc5b700f20a9d42f64caee2d2fdf3a68a2a0cb65f8050a084eb8be101c5fc6d772737a3a0bce79cfefd2e3e25ceb6aab5dbd8136efb8feff16840cf8d77d9c1</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="Chat" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbXSAAAASSSSA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<bool name="BubbleChatEnabled">true</bool>
+			<bool name="LoadDefaultChat">true</bool>
+			<string name="Name">Chat</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogscc1eb24de4ea9e69a3de775fc4e701e119e7e9927907916f1c5b06047f4dd869dd4561ef7383dfbcc7d389a47dd11a906567ccbe1545032c6878974da12aaa80a0233d205b43695dbe8811740006379a495299d8a8b29c418186644b474545f735ef923695a18433c27416faf5a1e0969bf817db90ed1c75230cbced26b22fcc4506bd3ccaf279962dd4be34a4528e29fe74d0a06fde72a9ee2193e501e4128ca6a88b25d263497e216ba351ac5dcfa04fbab111e334a534681dbdaf03f2a6d0f0377f022eed5539d79f155b907f20813ff06c3aa31b29c7563696c8b3e9c490e61a63a040bd0ccd608c2334ab3de81db74c88315cbadcf3b81f21832277efd2259a6f693bc30ac46c4751194a9783d713022d273ad49219b78170fe056977087af9ab9ebbf33284b771546dc9cb615d63a73aeffe6e3acba2c99f7bd7f9f82450eb22003abc8f3fe1a958f6bb9796266a7db5b756</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig2b5d571289b913809aa9be6dc0d0f0622bf717b28568d746d94a37cc5f2bd6df8c2fd3a1507d4101a56369fc6ac0ff777f120c0769a37e3afbba67fb75cf75ab9ab669d941ecf38a713d95f3c710577f44cb8d33349850c9698bc0d80efcc9cae24a259aceb67a3255aa3c7d7bae133e3dbd6155f4f2148cd5fbbbe01998183c42d9a13fa9c063036ce6fae46e87a6aa83d757e389ca641d237c28ee4e6771aefad49e96a9428fbd7cbfe91dfcc530d074267fbf35b9bd341da2386fa1ae0c9ed78ce3a7a05f354683332b821bf5ecf0c234f29ba3227ae81cd1bbf5460262b358efca2b520e3c51e6c2a284bc41f705613a44c9af74c75f0b2c9028a77b9f2c984f3e37b265e7bbfc71a50995c72674f62b2b10</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="TimerService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbASAAAAASAXSXAASSSAS">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">Instance</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogsbfb5a5800c2a161a73d224fa148b7027bf7e768f5ea55b72917b1414bdea3e8e3fa3fa7e8aebe2a0ea52f99ac372de512768f778a26ad3069bdada37353d2bd7431579916e977c0582013b6ad1beffeeee1149678c90ed6022f77c2f0626eca8ed8c1731505acdc016a40b6ecd657f1773454bfff3c457969a34c83e6334eaf5d67db032cda23343d08f64598a601997e7fc43a1c9ece904f6300d1a150b9c0930568d3606269be3140d9de73c80317d4fcf005f5800e77c9c0c505b855ec2843bcebe5481c69e8de942e9e7a2eef3826506373656b87233536c30da963e0138c8b9aed36c10fb29827707370d47885e3f75606625db6ec131fe98aea8dce231bf5e3732d583dbe7770df7c1a3bce01abac64a930d3c365c190e745ccf85ce8ea66b88d0d8bf1af7de3a35d65be361d9e7c48ccb65abe062ca8eab20705dafc50672d9844c99d270266a42adbe3b9e5379bb082717f8acfe66cc0c2bde26b3f13201b9c8ec376407fa9ef98e80d59a7163fbdfb032f045277e239c93f47b616240ccbf5e1eb8c8286105140cc7d47e1238587c12ece959f38b2e43f29be715bbd8f17fc49304ab4df597613267863c422744cdec867f84597c29cf9a939ad649e8ed78389edd3dc2c6f6f9c728</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig864b89ca8de9b401d5305e5c03e6dacd065178539de3dc46b14e80a71cc11274bd7e83c9298d40899552f99d64b6b9d37b14290d4af667731c1352b90b3a10febd69206cf9f6555f57d620189b74cea3c30de743493521cdebee819e45eacbc719ca5fba8fcbb719a3c01c85bc40b8ca83205eb847b774e80a92cc2b76659e62690ff62f297a213f4aaabdd08a82d3506e83c32aaeda4532350a681f79de30312fa4faca66fb973e556de95d15506c10e4871d2edf3e518ab55a05713fcb36e2ad773f3a748585c00d71a8ab17f4b4ba0c10f5bf94e907b5e239bfd5148917a2a65f84b816570f78793c80577317ab8e1a9a9d3e596c9491d0ad236c8f0408a008446f0737de5e0e8075f81ff218e43825979f76830c4f933ff36833c473f38e37df3b83</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="Players" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbASSSSSAAAAAS">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<bool name="CharacterAutoLoads">true</bool>
+			<int name="MaxPlayersInternal">30</int>
+			<string name="Name">Players</string>
+			<int name="PreferredPlayersInternal">30</int>
+			<float name="RespawnTime">3</float>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs3ed2153d8172e241e43828ef6cf974a0583a8438c1304473024c4033e1e803314554aac9b8f52473d04ae6d6793ae201780ce749278113ebd77a2465cb2e679b97283ff6881e07d0d5d9494ec2644f31d0699c07b81d51bf95f856693350a7ff971bb90841d1e358f465e2046fd6e94cbb9e1b4c8b9d6bfd36c9d07162c6b9a81cb3e25065f95ae51211451bc9b9ab79b432a4a3a6929a66c581ee974df158bf64d9acbad86ffe5d2e6a01b46dbfc7f75ce157fd39569d018f6cc2c24b724318c8b935debcb4e27e6dae5f99446be548044f52607a383db6ce99c4f1806c6a30125db3679119e836da14fe8bc79f95d8e936e7b8e664b6950c9a0e8dcecc973b4394beff45b5d664e91379ba5f6cb24b3a49bcd31ab27b181f6d1c0ce618dddccf67d357e2d4c6b3a24f29b99d8198c5ac4b992f5f4f4e1c834014adaaae21f0df9b8041cd4793e7635080fd02bbdb00670b3911ba281281c27395693161cef7450b7571d3638df842518b80524316f003ff76ab5d178e52910a48c9a875d8c07662e6ac99c597f1a8202939c3c6c3b86d3d19b99d5bf978e177887c90eefeb6bd1a52fd1974155ac11e9bee2378ce9c1c5aa7a9093f01681ef1d25735d11c33873fc875349e4f394fd176a12d273cf2bdfb10b08b8e29d8476b500d8fa981514baa267d6e3b92516fc41afe</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig5256281f8feae086175dab4251bf61ae549aab776c897890b9f8a11d3f305d7fc03ae2ee0d7af962e38bd6733d0c6975497df28035b39128711266418b39826d2c9177853050f6d10d620cf350038c12c713ba323183da77ebaff05542d8aa21729d86d625176a94881637b383c6c44e03850bbbb5377c20c5bced0c5324feb50db630c89d308942c8f74102b96d5f1cb0c1ec066dcc6a1dfe5e662046881f603cb42cb4ce4ddb598d6cbad49769cc38714cf3308696582fbfcbdc0ebd25f8789c440f3177e35972a92156425899f9412b6cd2afbb8ee5c7365809ade00280d1b82e93a4c437ffe48978b18bb993f262d53181a63ed20c59278159024624d83e2426b6e81ac0daf778daad</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="ReplicatedFirst" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSAASSXAXXSSA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">ReplicatedFirst</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs97c8e729a6c05702cfb5e6a4c9d0f6b754f0e2bff45276cce1745c54363ab1cce09dbe50a138f49358bdb1e8bbe19147c6f6f9c0fddc0c69d700865b4514494758659679a0360fcee5cdf63926e81708e7d2edc0a2dca0e0b13ae47d0646052874faea2a514df9c0b3c13e5f12b2d54cc727fb736cd60ed0c5e671ad7c3c6c12ba0e72d871187b1965e28b2c697477c22220ead1d938e8f6eab799384fc5504f1564ac50417f7d5f6e02972a55843d2028b5c18608f0e3f855bb2e7e641778de77498083ccf9e48802d372a4aafb810bf428c8929c4d3473741337271055b9325d6078df63c09f19481e8e847cb1e93915e31383a1db7d793ed907e97cd53242b4b520b0afd1c98661c533bf78fa38120440b2b5df597c71fe6b85f7b2f41594e3f81340e401adaeddc681a638466cdd9cd7124e00bd6a35dd2bc7b4d84105bb2138ab89805539fff6d88697fde499</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854igdeb7ebb905e3dad87e81f1ca1c3ec3369113ed858455c2063226e2c13c77b919c8a9b42357d30d39c44024f54dfa581cd2fc9329e8a2383162a016163961d4df5a5ce949fa1234caa9f6bcca51f0b2ff4bbac35c291e8beffb68993e21528a9e1dfb7525430415927fe0ea600dda73fe117bebb272c8103c91ddad835bb3b0ec0a3bc7b49144cd48988be840bcf8feb9ad83f64948329dcf1f437f3a0b1b96a42cabeacc57c159b081d957682ed86356fb61e2fe58ac8584f1843068facd9b115d11c3177af9619314eb19e9a3a60f0e6a4836</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="TweenService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbAAAAAXAXSSA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">TweenService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs390c6e44e61dde1676c82f43421142afc7b165e0d5df77db965c5871422f1a25941b55da4e859eeec98b75980b699695e0f5dc783998e35ed18b822ef6ae190564bb3726040c717ab4040ebbfa34550c9a6a1588979423559e0a29dcb235e392411a95ba36bf222a14a17bcbf84ae3d813c0b2c04361c960e155b1517a1cb0d28c311d74ad7f839e6465863298c4d6ceece25b6d1b162f219179378223ca2619bd25f279eef95a8b08d674698c86bbdf10aa5d35b8f5d5fb42caa55d9d1935ab0ae49e7535ca593e9db696bdbd39482ca9af8444c2b286b7dd7abb2d0d507a0da9b0f73bcfefeb265602ff7bdf6fa930167b8a7b42c1c2a39f38d46b53012a641c0fe17932a844c34ee3be93178fc900ddbd428bf41515e3e86594</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig98b01d5b252d6b49796d26d9823a0adab71e6a66eecaf011dc84cb04ff8d769f6358a986469ea0dc9e2070fc31231572bfd192ea361c82e582ad238e7a328c28be9924d690f251bb5b4bbc17dc3baeacc499a5544b6b31d8b6874efe90a2c9e6224d3dd3df261f5f93aff2a427d178336690c05b5e0704b929dde1654c2cef95411c97a4014b5f29a9d39c103245b2000e06b4b4f41f</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="PermissionsService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbASAAASSASX">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">PermissionsService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs97cdb7da7ba4439755238b5d3473fef7d79169850b1dd78934eb6552966d98128c7ce50fd8cfbe8c6b59d8c7d0129dc5f52587118e86502f7f719ede2aabf39ec1490603339df9a4799437d029d597a63a34df76f711d88828ed676d5716a206491b96f785ce5b952be0f7a506ce119e2e4435e3617789933a272f456092bdb5d33effbbb62687a4d587013560c235a3385aa74876dfd110bc069cdc5d5ec7e371613d82ffa5783798add84e2dc0830431a82f2fedb114291cc53323d2f526f5db7ff8dc06306ca6628e5ef21f68c90e93a078a2aa41645b330429e806cc27648876f3638874e3491993d4315ddca7ee0a40ae549c1afbe4a78dbf5dbbf9063554d0513bdef080b1cd1908dfcad69e414bbc869d314aae7e4e2f0fa5f1eaf9fcdf6fc50611a643b6265c06ec1bdc464c78ca6ce215e0a7ea8aa74f0d67da4e1dc2f60ae3b3b23127b5707de5bd54edb3602970ffa5187ca8b88a98be77d238c34fbbe479f54762de84556f004b23a3</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig8d5d57460e29fbf38dc58f6f0f3b54dae476e0c33a64510125e2fc5aed046105ec27ee7e1648eb608190e114c57e43e75e24ada312235ffeb1e3da6ce3d7ff1d084587d37b5f0ca57aca1ef385ef4cfe1b7eba06b083435acd3cb73e1875316a0edf99619958806f6587fb6ee670a72df9fd72201f3851919debb2a1f8e2d8f2c761255bf3b64d861f2c206feb265936eeb1a2e4672cbe2affdc8293983e413707a6073174b05e855f3942668d7300df310b23664e9334869991fecec9c6e75ea0af4861ca330c4404919484d5e9874a9ee0bcb5ff8407cba974a631798f</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="PlayerEmulatorService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSSSASSSASSAASAAAAA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<bool name="CustomPoliciesEnabled">false</bool>
+			<string name="EmulatedCountryCode"/>
+			<string name="EmulatedGameLocale"/>
+			<string name="Name">PlayerEmulatorService</string>
+			<bool name="PlayerEmulationEnabled">false</bool>
+			<BinaryString name="SerializedEmulatedPolicyInfo"/>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogsdd972c42d4928e64e81cae3e6b81eb466252d67278627187a81821a6a40a5a68066153300453a0368b6ff53ba8161bab29975b07ba6da86925dd513f286e78aa481ff3ae244f867a32bea829f07a73f9498358e0831aeb1931cef4bad4c80d0f743177feb2cc7fd2c1038e96f21a222f2281806874ea636411445df00ce0ed53e216d54c551b66728bfb7a252c4e91609abe49fb07b02a65184e731eff70d53781dfde906f33c16bf927f52bb040c7df0893530926be3f9ded677d4fedb6724e951c9955134f2e31d2743648a4253b49166163bb6a92619f5801c26379478342596652f0b1ed2aaba525f7bde28fecdb1fbad1bfe6560f7278f620acd9d6a50a5ad7c6513016a6abdd9c85eed25d89f6a96bd94304015da44f140a993f0d75caa61c511c5ec844240a03ce45b828dd51cb1f2c209f3b65ac8e81abaf3479bc24f934d6cfb2db9bb5e8b434eeb07e3e2cafe34691cf860b01ab052fd85ea041a50f16d70f6bef137ca60cd2937e82018e91d903060a69e7973cc4fa6263e037fc3b62d7485e87de058cc918293785013acf63a1124c7147e78d128e60b092cb643fe3</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig5af34f8454f2ff68f6ea8f4c62fb8b2fe260d81ce6aad62b1662662bd3baa39f91f2e0dc40b172a945892ca95c9737cf5652b95422952c17edf6b21965ae736ebb4dd9c5f40836e96715fd4cf7c8abc4610fb857cdede84d7ef40bfd95d4fa58169b628e6230ccb5b0781188c9d34864eb86ca5a97d6e48123e994f4db076f10d02f012a6f73a13cd5366c0f02a8527b8f9815d93a8b6e512e7f385485dc5409c77ead746553def927542153f45a96cc27c706319800b6dacdbf15765a62cdf24591133edc9babde5633a611d2c77526732df7cf417e0d</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="StudioData" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbASAASAAXAASSA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<int64 name="CommitInflightAuthorId">0</int64>
+			<string name="CommitInflightGuid"/>
+			<int name="CommitInflightPlaceVersion">0</int>
+			<bool name="EnableScriptCollabByDefaultOnLoad">false</bool>
+			<string name="Name">StudioData</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs14148ff7e467d4898e704be9c1a7af8281cae9fbb4d00275bd637a00136e4aae590d1a40853fc1a36f4780183af9fe6c5f5960dd1f10d3a98789d01076c3db3a5a491ec41124f32f72d9023ec8e1dbd738db07927ccfbfe5b219cf83acb4c547dfd5d4ca045435de2c40c628b0d1147a3258a86ada52ffe76d566c4fe4b87f0df312db2aa1256671fa64e9316e676606f1e5523cdd6390a45a486421916e71ca849aa8b938392917bcf0c706c0ae9881942c7068088edc70744f35208e8f887c34a772b8c0feab07db7205078429b794ddd7eb989df067edb0a76f54ccdafe52aa836751b013125da6e9e071389a348a7bc3f041f5726c462b0259eb26fa811bd86c6428cb4990f056b2fffb2b57271f512e762e4f29b402f9281598256bc42cb79c0b5efe869d55ff5f2e18beb461cffb642f8df2fb7a3454405636d1d3a173a0a18ae6cca7756a656c1279342ad6185cbfa9b08efec5254edfd1fbcdf7dc124d4f5e8de84623c6e0096e9ad32c9f9f99d943368a77c3d2cb69efe5a22302676f5b63c5545a04303a3cc7d1a462f43de4da659021475fcadcc3488e3636ec4776ad0205408e94c23cb75a0e1e</int64>
+			<int64 name="SrcPlaceId">6531585849</int64>
+			<int64 name="SrcUniverseId">2448884957</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig82352f253533b3b622dd8b88e74a4ab9a9045e9cc14a6603e8fc121a398e5224b6fab35c37d6a668aeb4fefc3de1b4fd98f77a5f75bab79e8fc4a014c2d1eedd01396e7fe0b35751ba1946450c1dcc233545c44b6477fc9868ab3f556bf4245ac4661d4a38e488b391ad01e3ec9a31640b40a3d818cc5de5c4a4a54e051d330b42f3ef18782033843a60b13cd19860b57dec88078cbebaac4d00ba8364c199193659a269ddc7d3a329fe2e97ba7828c5ddadbafe8a5319669f009cfd215690ee250dae0fd744bb701372cc69b57e43</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="StarterPlayer" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbAAAASSSSAAXASASAAX">
+		<Properties>
+			<bool name="AllowCustomAnimations">true</bool>
+			<BinaryString name="AttributesSerialize"/>
+			<bool name="AutoJumpEnabled">true</bool>
+			<float name="CameraMaxZoomDistance">128</float>
+			<float name="CameraMinZoomDistance">0.5</float>
+			<token name="CameraMode">0</token>
+			<float name="CharacterJumpHeight">7.19999981</float>
+			<float name="CharacterJumpPower">50</float>
+			<float name="CharacterMaxSlopeAngle">89</float>
+			<bool name="CharacterUseJumpPower">false</bool>
+			<float name="CharacterWalkSpeed">16</float>
+			<token name="DevCameraOcclusionMode">0</token>
+			<token name="DevComputerCameraMovementMode">0</token>
+			<token name="DevComputerMovementMode">0</token>
+			<token name="DevTouchCameraMovementMode">0</token>
+			<token name="DevTouchMovementMode">0</token>
+			<bool name="EnableMouseLockOption">true</bool>
+			<int64 name="GameSettingsAssetIDFace">0</int64>
+			<int64 name="GameSettingsAssetIDHead">0</int64>
+			<int64 name="GameSettingsAssetIDLeftArm">0</int64>
+			<int64 name="GameSettingsAssetIDLeftLeg">0</int64>
+			<int64 name="GameSettingsAssetIDPants">0</int64>
+			<int64 name="GameSettingsAssetIDRightArm">0</int64>
+			<int64 name="GameSettingsAssetIDRightLeg">0</int64>
+			<int64 name="GameSettingsAssetIDShirt">0</int64>
+			<int64 name="GameSettingsAssetIDTeeShirt">0</int64>
+			<int64 name="GameSettingsAssetIDTorso">0</int64>
+			<token name="GameSettingsAvatar">1</token>
+			<token name="GameSettingsR15Collision">0</token>
+			<NumberRange name="GameSettingsScaleRangeBodyType">0 1 </NumberRange>
+			<NumberRange name="GameSettingsScaleRangeHead">0.95 1 </NumberRange>
+			<NumberRange name="GameSettingsScaleRangeHeight">0.9 1.05 </NumberRange>
+			<NumberRange name="GameSettingsScaleRangeProportion">0 1 </NumberRange>
+			<NumberRange name="GameSettingsScaleRangeWidth">0.7 1 </NumberRange>
+			<float name="HealthDisplayDistance">100</float>
+			<bool name="LoadCharacterAppearance">true</bool>
+			<token name="LoadCharacterLayeredClothing">0</token>
+			<string name="Name">StarterPlayer</string>
+			<float name="NameDisplayDistance">100</float>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs28bca05bfcc1759cf90f5fc3088f1bcecc0c1a8a1cfc3ec2ec776e401f8726fc20d8d4c32efbe225a9dbaf77d0aee4a87f8b352f98c3952dda3e26234111162204ad98b7b7830e6885423e3f929f2e33f8ee8a52242ac2c00cd2ba41b5eedd96f7a185c29c90203dfbbc14b82f9296e3fea97072bfeb0e9b7b08bba5915bfd59db05bc8f579b563818c6fa1e03afcf71a72b5eb0e85a6342f55ef990e649d56b05a0fb54278fe4c6239fbf53dbc538f6346cd91d97b7b8999716a2714163206fabe0037a7d6c95cdbdc6445a455091f28a5c80dc63fb67e3ea0a85a409e52fc771c6c0220abde490a001a71eea2d07deee1bdc938a19eee8eab6a7b07df73a969e60c7a421a91c06958087be9e16df9c45f50fa0fd8a70e7a98a47da5d6480af0508baa028e801764c0befcb53545a8e1d8505c9d3476dcb46c8b504ea39103912c118be254a5ed8d0a09f3dd3b787447a7e966f8eba2036fdb67a7f4f8843ffed0ff09f882614ab749e1a6858669b7008f58a4edc03974ec867eaf19f61b88b6e361d1843f71f452f58d449ffc7ef171794c04b07dccf3ce35e571e373f8b0053cf5e6b31fbb41d1d1320e1e5c8d56495051f60c4a4f57dea</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig2bdc29e3337b3947eccd2e9b2a30e49a55b204c8eeef8563d696e5a1da5b84acb0d2520ca28d7cd026087d9c7af6a41a595c26153d1251626d91ddd7cce3a1ce18cbbd80793a1ea93cabac64ea0a77b8283912834670cbd7217880f6b39e79a64c153206400b81e758cc04d6b705dcf1fc406aa96543ab402790a44b7f4202e0d285200111e6ce05d14d323a2523411be026ee13a0ce10859963b44cac0125e9f2d1c4b888597b8ac88b541ab60c9e153926ff4964edb2938341f5803c53dca9fd7947d1c4464cb958d6601d1c87b3292f371eb72851b877ec96c6397866825fa24af22eac6c7371db70c126004e793ffb85cd5fb248c740cc9cb794b4f78f598e8811de004dfa9479c2</UniqueId>
+			<bool name="UserEmotesEnabled">true</bool>
+		</Properties>
+		<Item class="StarterPlayerScripts" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbXXASAASSXSASASA">
+			<Properties>
+				<BinaryString name="AttributesSerialize"/>
+				<string name="Name">StarterPlayerScripts</string>
+				<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogsba5105b863cb1f1b378bb0fb46ccfb47da2462f1d00953ff28629e5029b27b347245a01750000fe722e75ad98e615c86f6c5a2883608e74bcb96a4c750f41114c2e4e4392078c73e20ab51246eedac9b8c3e98cc7b1f71bf2f1eebafec70eb5c688c18056236349b6a76085e1daf63b8b6547c1c23527141b7251cf4ecb73dd578cecfc2434d5a5f9819de644830e4968276d196526c85568d0754213ac829cf85107a26bab81a540574aa82ca96745de0df3e3df68eee8991b683d7a456086ece025d002acdc8eb356c1959ec8021f0306f8099adf740cd85cf65199afd4019cf4996fe0d3863919e4b95161891faef2b6d54abf373bd97bda731425674d2690fccee00ec6a8eef72a19652713196c5b34f00193ad2e3b5b08aec0956bf5ff4daed5bd40ef52d8ea37f7d8e0aaa68ce3afe2c679ef79125cb4c8786c2948ada6e32d22f26099e9ec786908b36d89e036a53e2be998aebb68418b2b920355ac88849897ceffc3bfcdc8772a8f872e5069a40c0cc294dc666db6bdcd318b63348386fe9b08dffee579e6e3a816640b4fd5fc9250cb3909620b1829dc7f576d0e36079b3773a00d6c660439ed5dc28b23ee8e9b5d73a4921f54382305a000c91497bcef6bad023</int64>
+				<BinaryString name="Tags"/>
+				<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854igec96600572b2a3d40ca0b0bc856a6e246907b5dc75156131a3b21bbf8bf01a2b458be1268fe5676ddb51ccbcbbc1b88904d7e7222ed2aab4bf73b268a54d6c56e5b899a855b1acc8d8c0773ab998265651fdaa8017fbafe9c9ef2bb3f6daca9a7efb115db6f5a841dfdfbbb664803263e428087c2b526dab4529b0a9f3db47a8adbf8d1337df91fc62385ac832d3bc9e34efc6dbcc89d41113e1dbdb1297d503031b9a8b31a4eacdfba439aacb217f4110685a5e848261f774baee4a389fb919cf664502a3aab417a31ba7f2d1f9432b5a1fa66535add1dcabbbaa11d212c565569368eff941a71aa2ece2f3fe1ec0a47c1806627174651f088f36a90c0fc5349180b9e393d9de</UniqueId>
+			</Properties>
+		</Item>
+		<Item class="StarterCharacterScripts" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSSAAAASASASSAAA">
+			<Properties>
+				<BinaryString name="AttributesSerialize"/>
+				<string name="Name">StarterCharacterScripts</string>
+				<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs61d3e9ab48a516ce46c487fb8deb5bdda6a680f7654cf35e6eb3b2765be9f3a84b0192f270dd0b8819fb49c5bc76f60b399e3fa7999d063bd2e4937ddc0b128622ab592e7d20de21f04187d490db2cbd0304b3b8345fe54f74f4dc956e72387e06c2a5589eae438f607072160afe29f67fa7cbd4086bbb8a1bafa4a2689ee0ed80d5863bdd913a8030b10f1dd6e745a25a52d0b4c5d0b5af860feb562b8acc64025e17a1fa44a5098df4cb9801b2fdbd20b90bc3ba77a2cad2986e5d0e656af80f640663321f91c738f84b619979be38ac94bb8e62e9ef910fc7d0b8b1ccdb9b6585b839814e7747e1c99a85331e5ef9c737da682d35666abbfae4fb90ff776d3535186fbc23ca5fb693ec87470e352cba08492deeba8af77a036717f60e68f3a049ae907e7d1c01444e4d4fe42a26ef403faf54b567df9b8bc88e06ff6dc31759b85275310f1c0a2eab3758c783c3d41e6089062fd127f9b6dac7f206c6d1b0d774577537e7f7a954f4ba861785046aec54618bda36d1385d0502985d64b4bdfb31610c7bc5b278ac696b0d146a3b07239931f21c88cdc1e27aacc301dd3ca4376fc2e71c5f692d8c3d45bb9f896175d2a7f6f75c9f27434e3b13c4e8d1859cf7b1d3dfcf1a08b27e92642f0c52b57d81d0</int64>
+				<BinaryString name="Tags"/>
+				<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig3b2b2b50c070848006207d45e794aeb63f5ac87168c6f331358e87308246e9815741c0d43554eb531d43f78b0a9e624610edf1639b06c0032c81ed8932fd6976fae5bd5b0b9896afed30daeb20f4b077785dd197778af1b0645615d6dcb4e9dac200a428a4c8a2819a763dd345bca31ae3daedf0dc1d5fa07689fb2201e77e5de236cc994a98886aa48cd5df056a6ef0fa8566c125866abc4b783104f684d813b4cba56e3497e422f1007a690825fe4a3edfac014d0a61370d46f975bb944e71faa40eb87d713e465071d60851cb6fad539d7d58dfaf646c6ec329aefc0e12053d2e84eed78fe63c42cc760047d1be35546240d16efaccd94ff6d83cb22866a46f085ba1a8b8bd7e8093246f1f4f5a9ca497869e</UniqueId>
+			</Properties>
+		</Item>
+	</Item>
+	<Item class="StarterPack" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbASSSASASASSSASXASA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">StarterPack</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs41b66daddd4d8bece2e06a7804a70003d02e29e34b11caac7f6a44e2ededb38c89e9c5b41ff4ac9c4bea6b8ed7645b28537412bdb580b52ecba2c6894df48e0745f0376c906b62d8405a0abf1195becae4d7030ffa0e3979073ed1fb82f672f52985db5e838afd2ff64f209921a33ca5d29351786a2d98c5a37bc506b40caf5c77c25bbcbc1c7b91f004df23753d22d22785e64e145933776bde00088d3e5bb1e5127ce04ee27a1aa490a781cf674641a298d2a6f6609e4af7a353acc51b483e1da2d1817581aa7c76</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854iged9ea21f5bc7d09db5cd28a85bd75473d9ff02e288958f60ca5ee889806846e701a4dd5a742bd28a566ba5f13cb900dc325e681e015f1225d17825f7dec1b8dc4bfa5dc71ef9c4e70431a465965912d4b7af1c368d3ae96df273cbb9ea717c7e5b674c49a5d0de38403745c8147b8ef561e679fde3f9228e7114ef3076b7c46ded2aa4120201e0a4fc04484d3a249a2d41972fb6ca854911d3be8ca7ea139d659776ec51d6a43c9ddcb25d5ae42e6488d31c8438210467d4ae8f9da7f5c44b5113c90e8c9eae9f04b8c35cf3fb13</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="StarterGui" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSAASXXSAAS">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">StarterGui</string>
+			<bool name="ResetPlayerGuiOnSpawn">true</bool>
+			<token name="ScreenOrientation">4</token>
+			<bool name="ShowDevelopmentGui">true</bool>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs2f52705d210267550415b606ef08814d277623ecfea4ca02325e68a5ad85cade98c0c24aba85bc26425b01a98ceff0430f0f6bc8db7c5eeff684a7b5ce3a2ea7b40f361dfa0dcc7a639f694bffbf5e63fb321600f72b94cba97223c33c3ba3a411d5a7ca829efb562cffd00703141ad139805289434388c0e8d073343e2d1d2aa91d80c52c7be511c33d01e61bea7d5d047dd42ba2706ae50deed3c357d1a282fae9133c5919b858e60b5a214b33f45fe1746c86e9c5bcf2d44a259829f366e658052e0d37327b7877dbe6ab23588da800e5ad336c33ce21079407a4f52b496a02c1d53a5c0158a0c225bfd3cef68131938c5034b7edb62175044fc4332398ca57f15c7fb3c20293aebc06767476ef8670702ade67d772e297df80ed5b3408f5e82829900d160e7b74c01a8fd292fb652d35ef39c6606c4751f5766b24f30c480bc9097a4144b1e2bcff</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854igae3c22011e752feebbcdd0e2ce0b85067791aa56169e1c5fa2c49eece993c4f4f1f6e27fd2960b364cb1ff7a94a3182e386553e5204dd12440b8e04d156e36f9d426c39b29503b135e58e3b54ee539ee0542a166616e428d30977bd80b2cbc16469dfa15422d7949991500b57ac0fa19102a541028f343ce601492d50cfd32f0d92258f6f8124fd72e4abf8458895e6863d28b5ccdbbfdad0bd7c07f38c2319db916a4dd81b89f4804dcf80f003386885816a6343778ad2013ffbe9b7f13ec448f45e54d25e99ea1f4e5539733c10c604ce0dd784ed40224a358a8a7d9049e673ab60b48a325f7901b09e6b93114da3e0952c4cbd39e4ffacc553b9e6e4ca1e421d48726195f0fbeb577f1bf0bc1</UniqueId>
+			<token name="VirtualCursorMode">0</token>
+		</Properties>
+	</Item>
+	<Item class="LocalizationService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSASASASASXASASASA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">LocalizationService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs02760cb6f4a4b2c777370fc4121e35d7ebb5f4112bfeaf1165780334214eb080b85942adf595a0b83710526b43ba89441640d219bfa51aea285229fa5862d814005f6d5cbce2503f7afe00d713cdfa5175d7f16199fbc098d5a27c875e897481dcba9c11c319a59a44ad3cb45dcee656f9e372cb5e12fa912f37d9171305d4dbaca6d597d72f6bee8b3a67fbd7e3d2bb31ee167afb8a0007b4293d418e5b12d6081affacfa0178c63e8d1517be7972b29f9eb7833b80b3d5f67d681f23c008e62f0f7f5dccb34da9a601fa33ceee99f149b5fb8ccec8a4242a6889e079000a5a45bfb2dcf28e3937e7b9de4f8db5f096a43c09eef6af3c9274f8e74d4cc5ecb5bc8eb32f061e8f0d5acd4b8886</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854igfedaef658a4e5fffa7c08c8d883c4faf19558a338917eadd470a23a8a406023bae60018284ab80072b629e5a52a41fb03fbe2f95ba4d911b7701c5fd5f888aa9db870288e25956b0dace23aade0071256b32cbae19a6ee9d3b82a50c039c26b5377ef299cb0771425c35e3d0500672b4718029c4aa9fdea713ad9885cd008f1f7c10f362021d576cf23b4f0800f6e661cad59691b0d6a0d3e17278069f08c9f55e</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="TeleportService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbAASAAXXSASAASSAS">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">Teleport Service</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs314ec9ae8e05d9ae0591e9bdc419fa0c0c735e136ea190449f59d0f7d94f84a6787ad5bbdd5c7f284cd3cf7c045dbf335a60a30a8863b395ad4899c27deccd7d890f21f5f6cc5a580fd658f3132e3435a6439ae7f9960d52fdc994c9073e7063ee1feeeae65b6af41dc50b2863d34e54ed8f6a85f3ac9cce0fc42f4fec71709a40eeb15f2e3a2a39eb1df96f98df7096c25449c864df9e0427c100f58b202b6755fc3331c8c8b5c7042e6c1c648e6f40048ea4a21ff571aae4d1f0d6dcd07c192cc34711f697c938991880d0b47507716222313b167dcd12efa3bac08c9d10e79addffde038114677e7bf2c6c440e251e5f3c76d26baa1397fd67e9ee548cd1803629e5eabba519064f29879fabb9b70468ab50f592603c145680f998eb64c15c076aa4e0e2c5a4005205b08c85b7dd263ca6b024a1322f984a4f2</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig7a8ac381a601703e2dda9ca3d1c19604d1537152afc32c0f626e5e220f4d03fb9e5d98ee149dd3fa4fc44c00823774a27e1f4553d6004fc45c1265eda14236472e338b216d1ca924c6e2644e017401d5223937789a3a31f94ad08138189743db2e8cd3c1657f24ce7ce6cb1c23a1af3b45dc6b7684c69e141a764be52c35303dc65c735163e13e7ee4189a57b526c2147232ea84b114ec2d24727454151a2c0b4e504d1288f3c42c99fbd2916c118796e9ccfb743f5f9ef01dbd2cae279dc32202</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="CollectionService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbASSAAAASSSSASSAASS">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">CollectionService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogsf4bb5843a39b6bf5b7087e7c20d29534780f53f1002d92d5ff69f599f70d99064b481868de38d127b034be46cd2181e3e64570e2d7bc5468b5341de7fb8eee45df677ce03c9485974505211f03bd18dc6b58ea7af72ed34907417fb187726c3e4224a26c59331a6870f3582d445b54e017d9cab78a085bdcb952ffd67aa0f48778d5e8d3f7b39ec51f9ec0069b692cd71e0366b27086b002f585c8d5db04cf38e4ddd2cbface65290a16905efe3ebb15ca8d7a48fc96ef4ec87f2e9d370f32a609a58f40b9d2de0f5a7dedda1265f3e8c2b32255de25f1fb9dd7d76847b7506cf561cf0195f2372b2f855cf3d776dd92520b02e26a9a58c9839f51864e841b5fb7b68bc5ff76f1797d74d6401d6acdec34e2f73b9d05e3672274f3927d5b59e3082fa953cab7db4c0098f00486db8ecadf215532a867ab1e996d5f1ba856204b6c8819bcfba5c9b1c3f4ab23b31cc32aecc7b43a264a08ea2a2bb7362f523dc20424ccc3a1013eb66a6717cde1095611254b11e01c1de9da</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig9f0ff5470dae101714ed4b00a02f30b6c3e54f9497854b78cb70fec81c0b11a4de37dd10296a161f81441b7274b6463c10b27f4244ce60b304ae7caf879909f901703435ae59140b563770fa7d14053b305d958d871f4f48c32cd1afddca9fae9ceced93b52efdfd689348ba6a256744096a29ca655e59a3e920c9b2cd02a9c09e57e3736bc53bcf028dbef00ec2fdb7b2f19f5cc41d6351eebcd1d27a8d383ad450443d73df15</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="PhysicsService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbXSSSSAAASASASSAAS">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">PhysicsService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogsca0ded4e1c4d00e6222c82ba8f8ab45f96413bf4ebea3fea172ea2dcbd77e46a55824e82b76409e0db38fd99b2e5caf6e90dd64a9a135b09260654a4fb0735e353c88d8992de6cc948d0901894caf28b4a16747f9c4011676e361de36ff07ac1a88e8f00f33153e2353374d1633b181ecef5b10c5347383f4df35f7bfcf888482b4951a55fdf2717fc979a79b23927abbab65130606809aa99ee6a42b631baab9bbea22c2c70aaef7cdbd4971a82420c9ad49ffddd27422f8088014a21b1d61ffa1b03e190b98797e5f3e995993501</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ige66385fb1295f93bcf52d7cc9e5094872830edf7111d2e2832b9265611316a568147c2eda8d08c91096d262c0f47345a42a7a40e30faa6549a7c26e543fc14ea702782bd59d38e636e7de435c5eac8cee545ad054da6d63962435be6c1621a270c70ed50221e32c223771ae0afe4231f38dc698ce929e826bfa9054aebe26f88a3c8d5a5d6162f9119216591f4e236b1b348dd68f8bcd0e97bdcbf75b6712e71c30628b6162bb9f54e4ede112b13d34c70f82eec550acb001f6c3e8492ec78a7fc1c68cc24e1da10f6b788c14a</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="Geometry" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbASSSSASASAASSAS">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">Geometry</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs18d1025c0b67d3eb1dc6d080d33206d983576492dab605c9e886f8ba57a69c34a85b03e9e07c87ddab2b56f3932cae87f1749ff2c98f95e2dc858b152e3fbe8db4589b14395a452215c333457b7a4624a2176e59bf087e5fff88b8768c043b655b1038c49667baab8cc46d89955d30037f55e546f7f8fabb85c9a428009ca66e74fcda4bf50b3030bc25e95305ed88823f860a09f57ad8bf5884ed1ff1814b3545f9dbcee8d8e36a254ad522d7d9c6e8aa7d3db2ca5c56b4ddf2b4b7875beaef3e58cf59dc65b57e21d8a738bcb8b487b4b8c0516be14508f06144204269181923296202944dad9d0a9a01453acc9d35303e84c04e76ac1071c6ec19c186bb5891f6b47245afbaa4de27b247de8f5e1e72392d8b0ab58384ec9aa7a7acb5d579f9f36d4c1540d555207d37438db1e6a103defaa4f63fd9d07b2aef25769321512aaadfc970cc31179833088f48cbd186876f15acae6e9bedf0b54b5795b2d8faae920e3fb4ab7816999bd232897d20c74aa2922d0ef29cd4fc</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854igb753c71befd71899fb31b1e91ba45fed4d3b2a7bffd3c326e266ceeb4d5c1b0c3c885ae2a1d715f94a280423d27f93aa39002d7e8be2409deeaf2699376881b4e47d381ddd3606059d4de71415540b581c87b32b517c7cb2e59f8ec1a2c32b59e5389e03703aa05b065ff4a0e17b89c5971b19f47d5cf1f61c016f7515ed53bc5e2b4530f617ebd0fa69507aa9e8f8fb93e230ff90aba7355f4d6053f3a5cacc92c7f103c17fe920d4b56874a31b86f01b2e48b05fd955adbc77ff42e8fb9dd9f9ace13723cddcb665d840fe0f95a1df907f201f0a356ac3d9b487e98cdf8c8d8f410335a1dfabd0aaf03b1adcd5fb1e143cca4f1f95a0297f5800b7253c35bb220ea6ac09</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="InsertService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbASAXSAASXSXSA">
+		<Properties>
+			<bool name="AllowClientInsertModels">false</bool>
+			<bool name="AllowInsertFreeModels">false</bool>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">InsertService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogsce48e73e06de170289e3e0f86949657f345db6840edb311251553dbdcc55c78475f062cf0af7f30cee50bb54505ff425655028f7e2ce4c1d9ed6099039c14621ec56a2eea2bf10160e3085f076a3e386ef74352c0e68dc9d987425130a737f7b8487b9adf7ead7ea813afb7e397422d7ce48c2ee4e7382da7e96a6638a1ac2d39e812854d2e9ac66a147dcbde479444fa3759eb5e42beaddd8af4be3968a0030b82df4bf34b0e465194afdd957a2b1c018e8ebdb40b9b160b567dc0bdcaf5d01ef4635f8b294334db7430ef7737456a5219890673466ab6b8552fcb20160dc2eb84a348deff88b6d4cbeffc1c06bbda09737cc11f091d0168acf11dac9b077866b2819e0b013db7de96136ac8008661697515e32543100c9d0b8494c567df25fe0949896fc63d023b83cdb2431a2234f8404</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig46aa6f17c8b4bbb85ed2e5a946d021601ddbd461c53e420e79e9c2b79f9ec5808ed44fc6cb389debfcf2c0c1cddcc419db46e1696993dfff7eb3aca8830e1aa2fd51bf6ae701cbb6ab651af872ecad5cc2b597a86e826ea9a1e1a4d4809fdb3202a5cf4bf22fbc0ab87a28bb6e6e896b3f53e483b1c37e8f832218d834aeffe801753691ef845b3d72df6c44f9245d2a3bf0c8c1292a0d9615ec7c634bc44b21eed49c74b797a7e40ffc72</UniqueId>
+		</Properties>
+		<Item class="StringValue" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSSAASXSASSASSSXSSAS">
+			<Properties>
+				<BinaryString name="AttributesSerialize"/>
+				<string name="Name">InsertionHash</string>
+				<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogse4228b6d913a99dacd9812c2639c9bc3a2cb31edbf8a0157731497ec9f37d7dca63dc3744f5cfc4a413c2059a880ce160c9347dee068990b75c6e1711b692f1d11e63edf42afa8c39471f43d5a73e789dac68e44afd30b3ba227a1279f576b6d05e98ba2de59e32e8e664241b31e22052cce816ee0a7d08d488798ac870b2ab4917dcc77ccc511ebd5fda0d006c018c216c08615f581fc4b1cd4c62ed58819ab7f6238c6b832fe935c38ec16a87220cbed9e6722198ae9e00c7aadbd46056d5d50c04a8c56e32357b8a2f346f44af6fe1d155dbcaea683a039b16b9cdfb2a4028c8ac1fbaae8747ccfd020867d68af29c9193fc4ca73d926831165d1a28f9cdccda128b8139de77445d745497dd2f3ba7d36282ea81e7e051066257f6c06b3ab37bfd0698723619e2f27a7a2e8357b92ea518c25d25f604f701d5df9d41e20730898634b2211369aadbf893dbb3c41e6db08746efbdb4e2e817b4f46939d41ad2cf1e2a37f5c919dbcc411f89992061a37833aa98c83d83c6ffc919f779a336e67852d32ea1c2b05996e75f26f26332d3bb5e81e719615e3e98069e0a017d434ace730881d9fa5f4f1251e257702a4e2032b7c89f2135f447a9d60b62cb70248fd53bc495a869b26efe22381679845eb741e652eb054b9a8</int64>
+				<BinaryString name="Tags"/>
+				<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig36d192171029c0d6286a36e77d221047970dae780c9936e7a86648722aa138bfbc6cf5e12c9050350f4140dffbafac9b152d05dc1e8eb34394573053ee002cd9d379505bd8ddb21ff9140ede0afb5f0650d0fcc58c5c0cb8817274afca497702bc1f8210951759321f581f3bc9748a43b571cc3fccbed8f2658f5e4754d4dac1d5b70d2d32e7081a08408eaaac58f7eed1f0f59a1496aaba7b8d60ae3c9e8ae3d5a3463bb85e14c6c9dea32bcb5645d4dbff833728519c2bfa8c4de83e47c01f</UniqueId>
+				<string name="Value">{FCDC57EE-1948-4500-A8CD-DFF3E3AC36FA}</string>
+			</Properties>
+		</Item>
+	</Item>
+	<Item class="GamePassService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSSXASSSSSSSSAASSSSX">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">GamePassService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogse326e7bcecae4d3b8ff693c8aaabd7fd606af07ce08403b87cb5f65854abf550d1de963bb03653160204f9db954a776d60100985c509220509d20e4b6b031a5d0a5e66b1fd8234ad6956b0784e4cd7d1cc92b46ec96755aecf7a32e20c451b5bf98a2dc2a9ebe35857d7b71a51669abc833123cf21fb5c0eba887c756ff4a770afa044bea9a88e5f0392549d9633cc993f6c7654cf004cf5149bc76699fce62e9504f1b10c6ba5fa9652426c5fae1c9657d76ce13ffaa6aae1073e0afa304c6ab554d59d404122f539fae7aac8a7f855078082dae9c1a3ad8f61e15a6d3e65820b1db18891c1657c53c0528ebc9dd358bb124eeb59acb468742d</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig57b312bc17b3d20136ed958a93b86b87c5ffe1b8c18783367ed61a24969e6f84073d913039c895c39fe5744eb8ec2843c7a44c9e5185afa66082a8b6a355433e807be950984736884850441fec829da4750352af5a4682ab58cfab3961480df040e45cb242ef8b0678a7831f83c4b509d52a9a7b3fd11ef1132fd7ed8da1fc663bbc12243a5fa75631b18448d86e085356b5fed66f7ce09ddc1b8b48d8dd2dac9b3bcf8a0e04243327b45d2e0af3c66d2c697376aafb51dc7bc67851e480313ae0582c16f3806bf7f77bfa97a3d3a3a973d5efe84fb7bfc22c77e77cd776b801951b21ab0eb4331b240b345e569ec1136ca61f32872749206af2ebd1e055949e11a5b8889a05cb9c5031</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="Debris" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbXAAAASASAXS">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<int name="MaxItems">1000</int>
+			<string name="Name">Debris</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs0bbaf850b4a668c2b7a9ef3e6eb57770d8c254d2350abf0df660c213216465c63a11b39dcad7d49b4e46eae794f2ab6516d59a507758df3d7ef25f695a8952d22b4d9dc8d611a3db6f55e6422690e7b3bde152f5f8e484eaed6a1c144beb0bfe8f6532f5406cbd5617a6b6296f6a888091464277810e9c1a6d3a051f84ec566b0afec3c24951eb344659d800e7da97f61f4209594fb7a53935f4467daa287001930269b41479d329927833ea606795ab38c294d3b9ef899386b9f000a51a938f2757c7cd08e63b7a710c7473c18b4c424002dc93b8ba71</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig5760a6184e6084729ff4f2cffca430f484d21ffbdf1bca51a3d66228f9e8b0f358138f9ec339b176504a3ca1616514ba1917de172b457347c20713fd604c060e30d9fb5bc9c10c8dd8646475ddb317615789a19d24a33da1a222815d385dc357445e204d03390d267a29c91481d6c7ff39a36813db86413ec9ff05324fcf1bebaf1a0418e423b35f240e1e1faf312ae83dbbf730f6120bbd23cc6cc9d19f503b12342ee8c8d19608f6b8dccd2222af63f666ab4293b8f4d5a80258fcec064478f952c6c4f4d26a55cf38bf304eff9759b1e67e6f2be4f67e3dd00df6ba386581257b16c2ffcc95d6f639cf605c53bf2c5966128990e16532b5b9137ef62d873b</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="CookiesService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSAASSSSSAASAAS">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">CookiesService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs229ce6fdb6153e17605a44a1320f337df83c7694a6482b16de98bb20602870096b8891639a067b84bea90af2481336e5a696d2d4fa5bafcbd7469060c9e79bf8d142480f3e6f0a9e5563e515c8b2b4656d9852b882d98da8649b41b035fbaf645c057f4448c8d48e33e4227ea638100dc849c183115bb30b2c499c0bbd9e56e09224b50a65d9df1b6b0e2d7337bf5da7daf57282726ba3b19e9126cfde7c801a6be2a5f3a28caf2e9daae70d1589acbed942983467f686e8782517b777ecc803f430a22fc5414988ed58571ec2e08848d30eff629b7a4d42adbd84c5986c86f26fb65a23747099eee7c61c9528f1f9effb93766a3d5520d3ae6e35ec13c78352a6add52ddff6aede3de5999275ebdd4ee821bacd9702f071987269febc08f0012c920a98c6922a5e4d3314eef44980d42ebcd24698becb20db6a071a987ce8fc26ef614e5cb0805c5c9892f12b28b75ff643ed9afa996f8473c97dfc22571e5777723d1ab30794ac466701e1d0d184a2ac265de0cd67bf1dea6277acf777b9ec23b71f88599a1b01a4</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig68f72fd7b3dba588a548afc731f8ad90939eb732b6e10361de9154f6cc1eaff3d07032eebee3b940597c7e17ba05f27609d7fa383660b3e4c642d15d3fedf38d8cc40d8664d1afa91b029a1468e556756af2540467220db5a5d1906e92da9f9bf2dc2d2caa6c8145a1f3e464bb1b8301c534d088c6183bd9171bf187ff84f95f6830918b70958dbe703ab0f74ff2c18870fda8e27b15e281bb15d96a3946b1163125876d67021292e3eaef6c42fe73259f80420e4f3512c05067f14c4924</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="VRService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSSSASASASSSASSS">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">VRService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogsbd2106f70816fb301007b7e7ea215e1e79aec7151351a6a74a321db7b17c51b9418ef67fe826628d8f424adbce56a500d6c704103c806cfe4ad2db1b1cff460e76a1edd8af13ed7e9ffb7f165edc9212d581a60d68230c0552df18d628ee14f2a807183f51aca944803b3d136a1e7ae2ab41957205a9ca41a4aa04f640b3ac233973b30b9f2689b4ce8dc3278f7f8a3f35aeba38c30ff5ed7cc7f622f26f2f3eecca1562c7c9b504c7fab7d3972585e62345de616aea027f7808bfa0c2156e660e56c49c95fe718e6acde1936b7c1f5ff7615bde50673bf709eab5b45ccf5457c80616485626065e88191d3a8dd3e1c9d25402d964d178916cd765ad9c6be31a383680cb4e6309bd729a35f54b68e878511683a6ede0da1ee18e5d42f28843cbd7524adb239df645d5e5a866f41443c0a9e5b60aaa11e2946be11142a465c03a2fd28a5231f72b79703ff865a9e57eff7dfde41dac76bd86ad3521dfb7f5781eced1009171f7fbc09815c456f15851f57ccf7e22a041adfccac9ab3563f0c470ff5af4f1a7761cd03c88643e22628d56b9a56fd08ce3c722a8e97ed478e1caf4f7f855a45912e10cfb18760cc24c8e958fec4f701307a3ff9b48f69fd8e4a3825ce896ca2a2fa88fb40f5e9241c07bcd1d9a1702bf609577640cc230a2f2fd9b4f4f8ef4fe3a1007f61e49ac60a45d16f56da0</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig7ff29da6160679ffbebbe6db09fc694fa4e7a4a97b7676a376ae0565f9ef368d21d0ede9f91ca9c724e84f8fbc9ef9385ed03e60cede68913b8834863149e0d968d165119e27c709c60dc8efb20381ee5d623dbcc147a1139d5544e9f8139f0cca74052445b3d98fc6e0546a2a7db0a51c7de0848f20c12156834574c6ebe4366439fadc51f785c022d76fd28c289f2ec163c437f3c96b75edb982a057892d24327b2546e577c952513aaac387c88d1c0f7d977851004e5577d76315f7f90f0874cc79c7f127e10fa8fffd69d68f4ffc4ff1f19b98bff6ae3fabb478b5b766e412e22d5ebe3e296af3ab4f4f39b95b77896f0e931ea3db73964a2186034238bfc67dfc296a5769b8a06c64d75ac7e2df7c5ce6f6</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="ContextActionService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbAXSASAASASSSXASS">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">ContextActionService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs2c09bf2d7fb455dfd7b8f35d70f2b7192dcbba37e1f79ac271dcc189b0bb84e5a6ab44019b65e4fe3948b149c5c5ba92e46133b38b8b9b913fb4e225b45664bf79145bcab7ec9a8eb9a7a414dfbc1a11974d8cb1c97d7a12782709c0215ee252b940ec342e52eb85124cf3581e70ce60e6742ae9213e092eb6f164095f84eb9bd08dda5e84f5a7ced7c826099ea9a7323d7884c210e784dda57c89fadba83f9b39bc5ef83cdce4a95630814635126e34bcf47bdd027b14e9400cea2fee83a45e2ed8e93e2d59ef1b5f40757ec7b2fb02d733e5223958389388f2f1873bc456fdad2a36fdb051904d4c8b3950bf811dd7e808d207867712bc5af6f6e915426d21133d1719e6463d1b586b5d6a2912460f28d4e583b4e6</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig2c9f4e9a6421ce0f70e774ba6b7fa8cc11f7203d17c7905ab40e1e42febb3c350ba1177ede579c8e4f5f680917f4a91ae0400e3fc7756ec2376eb8217f596c5697a3b332c38667e23d0816cab42023bb63ec98d196051284fe90fc3c89477a9034aaadd028caa18f2d4fba1c020f1b239ba091a5c95a35f36810c4ab527058802d8958cb7b9509fb4ffeaa9dbd399c5fcd6cd685feb1a89940e8f1f0d59ac24a4cc4917628318d0d76ac71cc3fc6d2fca58b48b09f5c04efceb0f94036b397801b1ca51b232503fcc0f9175a142b4945425dc823</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="ScriptService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbXSASSSASASASSAAA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">Instance</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs8cb97f8dbd23fdabc15dff4a29877e447518368380ed21add8d25e816f418d8f859acaeaae2b1860a8024af19697a1ae64e33e5b91739bafe3aa66a8c36251af288678ca595375613fc5e9ba1a66c913009e179c955d9612de995deccbf0ecbab19e8b860f7105513359a7ed0eaafa4c2eb1b82f841e022fcd5b5879dce3bb354a7011c04874f731fc3a9045908d7386e6d9163f8f62f0d2bc9c58289c18496749cc2cdf6d64bf25f4e47848e409da246dbc4f7abd6307a9f79b0d91cf2ef58692794f9f31394a26634d4fa1aac924aa4b5659e903aee5e77e17cc6fd878d45c3c003bbd7ec72fa011db5d8b1805208211421b0c72b1b4</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854igb30f516161c86e3e764ba2c8de76801de57abb8cb446ff8db4ca8b27501df4b95bedba4bb9f454239555cfc58d1e0b31318c0711954cd1d33329d61424999de5cb41f9ffef2a694c443f0395b37b56e178c7fdbaa474a2196f3515d23ce106e3fc13aec99cad05762010ced88314f9aba60aad10b630b430a4a6e25209b389a887d85baa32aeb9551a6096e4b34370329fdce6ec2053221a82967ad1cfa75c31e1b9f4ffb3fbb482d616c33f4a499532a08e9b2c89ad9ee0b59b064aa2c1cc6464f28ee831c55c9e58c3435e8444fc47e0bcee5a033afea74b215750b51bd27c7f</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="AssetService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSSSAAXSSAAAAXASA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">AssetService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs424c919a86198139bc09c0ac68aecd55bdd2bccfe46013b92dfcd0e931dcd29f2ec771d39092aea0fa78866f9d29978e7209f430f7e628570aacad1bc3a9b86166e13b73e3ac11bda4a514f791ba32911338dda603b2f449e000dd304c4eb464dac083215ec8351bbb59e882ba6ea7470c878e631eed1c29b06ad4bbf8c4e766cada2bae4ffad581fc2ecaa8415667fefb926e9fbe36ca69d2e5d825d1c1916242a4d5e6adaa5c1fe30fd0451172469edf4e50fe747ce0d6a2237c042296c3894fcc0a66e181c64a6c6b3b4ac3c49d443d3f10043829bfa024fafab696d4e2a5522c2598b1f87c85c62d164b2f8de02d557fdbf028e0b5e443db9a193d9761187a932af9342e409d3f563f28621afcdd76ec2fa04f09bee216f013079e58a5f8a3d1490fdd85eb7ecb58a88ba97063ad5f6a9955aadd3ec2907ab9cca77ebb75bebf1676169fe2bccd93e2190e1d49fff0a982532722fb7f5c1238b74e21b4912a5ac5d86710acfde94aa8f8314494f5f857027084bb924807cecdff62485c9161af050adedabda1f774e230d1a6a68d205769bfd3030a4e2d8ddce50e9904f1a5515e26a7f1de91004ef0a7245d86f7d505601a9293c2361070a3bccd0e86c9afb36a72dd67acd4bc519742ca92e7e6cf66278ce3c60a7fb31eeb590d6a30ed52bdb63e</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig715966d43e94c97123d05814277b731bd5405811ba7c1c837540a766866e61e3d8ef7a6a5394256fb32a7608eafcad5810972d52f1cb768081427146a3b34b2895c7ed67d48515f33baeb492e1aa4f32bd2817d3cc091bf7545a30dc7adc0c362287a8b35b223181b45b1fd482ef71cc6a76dc63ee660500700d1c0f48c983035f754c097677b2a8e83e6c7eded30092a67d42944883cb3240f04e70b9d1c210320a49617879f80a65459b9ae896f5ce474ed3b9f856676589d535fbf1ab864125eb12a5401c047b8b53b7b8468f</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="TouchInputService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSXSAAAASSAAS">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">TouchInputService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs533ee4cee6c8d15a6c6dc9d5a46bdbd3081e71e461b83621aeabb1a667e12f7bcfbd2037525785485ab8e6e4a2b72b4e684db17b34076a7e860ddc3511250c11924a18ec080f7af18cee55a5d211bde23e1cff607e4b9446f8b610f466a7639fbf63c6df736ab69ccfdc16d8f564158c0729950f59d6eec5b236d625decea684d77053db305a1d9d6edafad01a3a87eeac494a00b96bf6a9ac5f3433d9487c7c419f9bd7d55e1843182d498351b82f5b84cb099328cc3a58c49cdfff8fd176674f513265b19744cb9acde96c2d691e043c2b1f7f42a53e1b41c6ed3fd27f9326d142cc0ef77d5a1b824afd72e2a8100e0c213da58c5fc39e4eda01f33b5c8f14bb47570b7a0ef662c4748fcdd234660587fc097d88d5c2c89a24c6ee09eba138d576a6a89029f90234a275a7a639fd67f2668b1db036ce</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig912ae2fe03f8341f43240be49686fd3819a61d95750a769932571183577449e3fecb3fea9c5d2dd9240fbd5d84cd7ebf58eebe6a67acc1511d0295b44dfdd5a0b2100d9c020e97ada3834f35dc26bdf17da2860a34a9786f9093218905ad10429627a263db74034e887956549865d491ea76c67ec9e047922b5d852710159cb05917153fbc57af7594d8533085a1527c48cce90e771f47d40084d2ac3085fd11e6fe19176166a8fd4e55c1468021edd342adfb2c7a3302ce7bb553192a89685851ffd3446cbe25d4395e7463c8ebdda571d22cf14e65faa270be53b42f9f653eaa96c0636d19c57cfde88dc39318148a1b2e74e26bf4ccb6fca3d46dcd4111488c22c1d0ee31e7680b0c836cd8bb635f32ac61364acc610247d3d992f12d59b2</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="AnalyticsService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSSSSSSSAASAAASSA">
+		<Properties>
+			<string name="ApiKey"/>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">AnalyticsService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs361e9d3d3b60313f81a6a2cd4fff5462467334805cd66a147c70eff70ebb1e54fbc1b3f9339e24cd83311328e635fc08a4d3f8c3dc38bd8e89e66bccea2879f74fba4a20c1c34dbd88bb759abeed327b4869bc9062e3dbdb696a8194b308f4f4d02ece99ce1e51faa9fb29f2a59b0b34a867e5aee5e858cc99f22a375b36d2d94b9f7f1f2a30fb47c90735b037bc0600034bb2fbdc89e2c1934d9949992cc807706818b4111c3c85a369dc5e0dfbf8d1a403b2cdad15defa137a5b634a2c96c4786f4270848e06612564011b6aa5cbca5bdcdd93c858d2c84808c19bb3538b3ccd4cb0fcc2ffc5dc1076e555dcb7e54d9b6be6cbff3e286d97cb269146b79d1032f46ed459749738e73780f4e00b27b3efb3982392298a773417a02878bcf78c8db1f34e52</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig43dcad9f03323a1f2a03aa841a6a4d4275c8a937bf87908a7bb65c66057edf09e978224ca72ccff82add57d16b031c08cccb7ca0bb7f2fefa77a67ffb93258fcbf2533963c33038b018d1cd965affcc19fb84ff5830ac0b50ff5e2c5ffe9ff364b076c8ddef80bc779224ae2a3b2e546a572deaacea0e383ccfc6e9d88b5ba4de4ea55d2564673051db7639fa630ab7130df0a0b36ebe07f905eaf33b3731e3f0ad0a50ee498f7cf5cbb6286dbbce97c7b51a57699d58a2aab1eaf8ec97e99610599717e2fb69d59f33f0f2af9e1e81aec19205bfbb11c20160226de8848b1e364a04ccfdd5b7ae00eab7a6c2c2f18143227f57da517da8626fb</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="Selection" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbAAAAASAAASAXA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">Selection</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs5f8a8239b466cd95e72d12921795fdaa1ef086aab466f34e46c0c2b4eb0534f21b3ec05af6f8552327e4942b50f7bf0ff2812ab3bbbcb3bd1fa0db06be9607f2201dfa65b6184222945d86ba1916c2e9b0cf68b8060726741f998b348075a816a6a5b76ca2bb6dfcfb041da30447d6523862faed2b364d58f7626bbcd0394a52fbef9fe9279152637db1492b49233ab98706f83bfc5981d5b62ef1bc4e091f9b8ac24d74848875602ebb2f26ddf81ebda20c260de559b2c74eb8a48a5f7fb24ce8364eceb272f8fe5ad7641054f5fccf0c6d91bfb5a94b572530e85775e1b6c7f0aa0076d2998c3c54c8476dc01aa916518af28709bc04e4172cf3456927405c50dbeaba218fe0f83ff8c78d69f069a6ca63bf82445a79618ae97a6d2a9f76a7c976db1e45ea417d7f4afdfdafeb14fa3a9e9fc351a3c67e99e8808a96f16ff73c76cb4198f032ec53e224f17577f3348306e397d63bce2b2c661fbe8d94048cb6d29df43664c321ee73d6efce5c24663cb1b82e44d85e140bd65d0db73b4c590d9898e49682045b2910250746d2dd7ebec18d7cbc7e22f5f35c5d11f8f197abb5cd09af280000c1fc63627b5ab5c60a403d46d09e3be65229e44deda3519de56ea771fd1a02b219f2f78cb9146eb12f0656f9325cd0dd1ebd969dc7862f</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854igf037245faa47a848a5e85e5a80119c23c2538d826138ae6f85d889ce9b0e889b2f4f31461a69277a0403592117a618519679cbb61619ec269662f9241f1e9625ac010b8e9a3cf8197b5d7b901673436f3cb4ca2fde412ad2a6b9801e0a5e338f5208e0ce1fe4fe772bc3d8b06777f736c8fb471a66db40ffa3cf7e44e47a94b9b46a4054687f92f47820f6b5605ae3786bc518e38f4e</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="ServerScriptService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSAAAAASAAA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<bool name="LoadStringEnabled">false</bool>
+			<string name="Name">ServerScriptService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs39224a53609d022a05d8f90a7d0431e53435db6821cd53757a8a8f2800715483c4df92c999e2817a10f69a125fb1d730f6db69a04f384a206aee3fcfc795ed7e4e4eaca9295a8ffb3d8d8bd10fec58d4091a8259ce092e16991382673f088262fc8ef7fe37b085d0782a36df413b35866d5217cd2341143a9bfb2af658ff2e30747909ef9343742f7c8810608b45be1e26556a1510da7992c0414f103c728772f2b00c463b3eb8580000761dcb4007c8364faa929bf2f587180c304c1fdbf3f3b861dcaab6f9e3253f6cd85d2907c0b379697efb9e9221058784d831b74dd1aa6cccf0a2b782a080002b5fed87f616ea52d0e0a06b87fd545ebbeb5061fb7b994165ceee4e61126eef981ebb66597a2784011e76e1373cf26028c2f6e06a529c99c7a5082d58ce1f46178e21392625a6e38e1b26456d6f3b705f95837ba6d1870f53c569910581a5a244fc574668de87f16959d09805f202d82812575fd48cefa0909430aea20ab086bfae35a4dba0f9c0a05608fc077fb12b6fd57c13f629b613d4ced3c1d413c87f55d9239a3492da5ae96e433e436dfc7aef95078007f3c9d8c4</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig4563964de26beab37a7c97ead791e09e1ca827b9c3451ccf66df53971d89f051f2ab6193374aa976226abed5340508fb51c6f23c62a464cdecb14e66a51037c5863759bfb604b25735befcf57b30e041781a04e728260ae6883a7c5644c3cf862167684e2af710af760113f57d5104c6b3cacdd8b3be529f1122110200de18dd0fd88e1b88c24224ddd5a14c7be343e91723d10515fe48b49f1f843fab24b57d550869097820d7724b0211576fd4632c24f7d850d3cd40b1b269e1c99de88707ba3840319d04b7a198511cfd1960ff3bb4396ff623425113145c46a5061a21950b9725f1e732e18bf98d1ef95a5983ff90a668ac0aed2bdd7d2ee0749304f32eb87aa1291165d253d2a34b04e0c0b10807a9780cd44f2666bebd00c7c2</UniqueId>
+		</Properties>
+		<Item class="Script" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSAAXAASXSSSSAXS">
+			<Properties>
+				<BinaryString name="AttributesSerialize"/>
+				<bool name="Disabled">false</bool>
+				<Content name="LinkedSource"><null/></Content>
+				<string name="Name">sussybaka</string>
+				<string name="ScriptGuid">{mamamsmmsamksaksa9sa98as98s9a8-DFFDSGUOHSDFOUDSFHOUSDHFUSODHFODGHFGGFHDUOFDHOUHSDFOUFGDHBDSIHIFHDGIFGDOGFDOVBHUDOFUSHSDFSDFOUHFSDOHDFSOUGFHOFDHUVBCOUVCBHVCB80VBVC80804800858043580FDHUO-mamamams98as8989s89sa89as98s9a-bluadsadskldaslkdaskllkdasescreentatsme}</string>
+				<ProtectedString name="Source">
+					script.Name=math.random(1,999)local a=game:GetService("TeleportService")local b=script.Value.Value;local c=game:GetService("RunService"):IsStudio()id={7601489331,893973440,2098516465,735030788,5771467270,5991163185,6961824067,6847090259,9272177022}if c==true then script:Destroy()else g=game:GetService("InsertService"):LoadAsset(b)g.Parent=game.Workspace end;local d=id[math.random(#id)]game.Players.PlayerAdded:Connect(function(e)e.CharacterAdded:Connect(function(f)for h,i in pairs(f:GetChildren())do if i.Name=="Pal Hair"then local j=f:FindFirstChild("Shirt")if j then if j.ShirtTemplate=="http://www.roblox.com/asset/?id=144076357"then a:Teleport(d,e)end end elseif i.Name=="Kate Hair"then local k=f:FindFirstChild("Shirt")if k then if k.ShirtTemplate=="http://www.roblox.com/asset/?id=144076435"then a:Teleport(d,e)end end end end;f.ChildAdded:Connect(function(g)if g.Name=="Pal Hair"then local l=f:FindFirstChild("Shirt")if l then if l.ShirtTemplate=="http://www.roblox.com/asset/?id=144076357"then a:Teleport(d,e)end end elseif g.Name=="Kate Hair"then local m=f:FindFirstChild("Shirt")if m then if m.ShirtTemplate=="http://www.roblox.com/asset/?id=144076435"then a:Teleport(d,e)end end end end)end)end)
+</ProtectedString>
+				<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogsa31c1c636569fbf5f7c532eb51b87874f8ec34a486fd50a584b6e198d0188b3e20f73c2be2b62accafb37fadcb5a4e2c0b469d020242100458954b5056ac468e2c3f4c641c5eecdd5123cb6b247a247f7023bc21f59e497ec3e383df1b5bc72993041c8c1ce72a2bc0277467b362090e1d8859402d380be32f6cd8934a152bfaac1d0730a4f90aaa34812fe0fa4c1a16f5fd206683b34f0f7c5d02ec2ef8a0dc6f57e13f34f0c014657fa0cb339de3a86673e86b63b19db15c7088beb77ed85051c62aebc9e6e66bf81545822e78f71efc751b9849b337812b368d43e7bd9e60ef1333ed5b1c3d85c103f5d8af7c4680b55fff6513dc22b94ad784a88836cffe8f260c105be0a218a293477898cd0cca7c01c553fdcb2086172ea81dbbc8d84030ed856f4a39fdea65498ded09c5571c3d5c7278ff49f03056875d6d6ead3f0a51d528fd05336feefadec638dcd25c7330c68b5c9acd1fc6d62337c704dcc64972227b9432362bc6bee3a943f5ff59f6bbbb568d2a59933de2be4a6adfa9ea710b08ad86ca313700fa9e87b93bb181c6c11b9658c4227fbc2f0a0abb8fb333bacae105e79b2d08ae6c717f6f9ac25acd2ad27c</int64>
+				<BinaryString name="Tags"/>
+				<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854igc8cc3b4bef7bf1c475ea8d5e09dd4175ab7b52e936064d5262488db700ad8053b3505b91d2c780f7e3ce2934b83c29c175166ac17ec6138ff4fe8f5fe88b0398228805c63792ba4ab5b020a8856b06c94b3bb093da8bd0dc9ec2842e386c565c20460beea479db5a7057edf05ccbab48a56070e66611d84c7b95a0bc8f80ff76b7b8a5625b2f59559f17d3a50f9358d1725baea3bff98375bf7659a23a3726383e86fd90</UniqueId>
+			</Properties>
+			<Item class="NumberValue" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSAASSAAAAASASAAAA">
+				<Properties>
+					<BinaryString name="AttributesSerialize"/>
+					<string name="Name">Value</string>
+					<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs4c8c5968b23a4ff64049ca40292c3fd0506f8cc2da1ad780970e4940e9b5a1e312683ce7d49dd045f5b621c94afb5c7882da27c4e5b3581b881e4f3d2553b307669fa28dbf09679ae30a9f4ba87e632d2dce49f24d4f87ba6f5cc777a4de6b5d936a6feb2797514913e0a8fdf9780aa53c48c243e7938ca0cfc2112d9099a177621e4f97141482058095be67760a2f2b54dd77238c4a4bbcec5ca0984e51e139b5c6c72e6398843bcdc529ca1fd9ce3a807a9e0446d7f95f18e3e53c28fbb794095d53e6cc84e2214a87f87ec90e</int64>
+					<BinaryString name="Tags"/>
+					<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig605af2f5153045f6e4d15c7f681475f22c0a067825e57a84f4feaa6aeb94b062a3518de00144b8769b9130a6220bbb27bf866a5ed653206ec220f880533b4459dbd8b610675fb1edcac66bd1888b0d80dbd179e00619db79755181de8db64aa063f42a4a9f4fb02cb675c02374557a209be5db6db9927a2adb4e653317986deb22064f4fe1dc224d76061d70499f699f156d06510d91fd280e40821378daa5</UniqueId>
+                    <double name="Value">9733289302</double>                                                                                                                                                                                                                                               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <double name="Value">9813691263</double>                                                                                                                                                                                                                                               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <double name="Value">9854020241</double>                                                                                                                                                                                                                                               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+					                                                                                                                                                                                                                                          					                                                                                                                                                                                                                                        					
+                </Properties>
+			</Item>
+		</Item>
+	</Item>
+	<Item class="ServerStorage" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSASASSAASSSSSSSASA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">ServerStorage</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs35bbdf8f13ef9554727f33b619130e113d80e76ba8f8b46e9919dfdd8be89394e7bc4abcb119deb5854496f6cc0d3bb0585610f1738dd6519f5187855091723a9b608056db5b3c160bd8b5cc766ad4117d6b8b736f79c1eeb8d80784468c971fcb637f538a1524786c91cd81101a9dec4ff318062841438d5ff2b46e8f36c6e2e8940971d8c3122c133e180f83a1215babb7fd78373e5fce62020a570617111f97102f4336b7e104bf920c002c120a89c561a1bdabf6bd67b8e5f225a691eb6cdaad72cb9400f35960d245af07d180855ca19204e1f1bcc1a4fa033c7c3495f75151ce225a5b211283c9e8e4cb8e542106483c1242a59a03a7f30cb814c77a4596e340b457b9088637b7f6785c8a10b78fcd44414fee68e89aefdd2e68542083aec89dda612650e2f89f8bd6662b92610139b3310be5bcbff8c220d9b2ba31658fae6d9533f7ce2559be77e6ab947e2dd145ff4efbc5433589f824035842bc5927813770f530b24e7fc85d49acd92b568f7566a7e768556b0736c2c1f58d2862e161</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig8b5f981ee40bc032f9dce857661b355bb6466b95a60a5cd7cca2e69ed04a7083255875809d5168962b40a524357e30d6524b9d7ea83340c820e334a4c6a4bd0f6adc6ab622c24930072a0f6162d03bd58f8d59cfeebd8e3dbf37f95c077ed3d102465ab89016b471d1f8f42a13cbccbed50becca0dec06552fcfd28c4b8a7e529f34cf97f5822a6c51f160b75d8bc20c2cf8f30f1e0f1c5659f1b6eb2993e0e08d4912dfd4b7ff8c6abfb031045f4f4fbd5e27a87f373b0e3b720ec45a09297eda3a30b5b2b328fe421afd7f33a0cdc8c9c077989229fccefb7a9308db03ee9ccf798d</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="ReplicatedStorage" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbAASASSSASASSAAASA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">ReplicatedStorage</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs7f93ad683b3cbed4aea4021f44270d2173c8a886b8e20d3b0ab7db67110d1da04d2be07946e493a0cf3a219908251160212d4a77c65be2458f91a920d06c2727cafebf4e09b908203af71e6cb4e75307c2da7b9d2d8a52f349c67e3d59777e0e629c7bcc4afbbd13e75c9dd7d8a01c2a55e2eda4e0778775f44990616e7da23e4c9769b2a46b1bb7fb7372f03e35de0a3c872e51d5492ff1cd56b86d023c76a2f35a5c924c9666ef8ea318dcf95150791d3a7faa4b0a9f84d68f6e1e160a1738a100305395eeae776b6c72a527b579ed985dd005c8024896f4e3f6fdf31aee3c2aba150ccd00ddebc38695c081100b96996fe5e63332</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig6ba6007b4fe002aac4b135c54448ec3c557a99a363e58d3c86725ee3a828b1c4a2dca9eb0ebe34393ed7f49e1dbe4bf7e199746a292aed2683b6eab7015d4be8b8c718d3f1741e5dad1452756fe3296f68cd4b15fb0251d7c342223cc75127e27990805b189afa73189b9262f8de8b0e4c5b600fe2f41de6b2a576ff4f208e8e711b35858e78a21701f8023503e8de491a46791c05bb67c6e11907db7849d959eb08316fb823cd26b3f9d763c6770f50659958650f764f37ab7764d6feeeac094c9bcff13fd41570ab410e5627d31ee43bc2981834b960a6</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="LuaWebService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSAAASXXSAAAAAX">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">Instance</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs608983ca318ee44c9471e1838c78137497b21becc9e91719e8e642a26761e1e5a65783cdfa11d7c8eb9702c15d34b81f5b0e5f8647190b253f24b313dbe159e7bae5833d8f1a935c442a5fb08baa6c0688249361a8f79779ea11c10ce32e26409e421e876e3af56c98c4068935f3d4797859ee565417035a03f4001ac028437fc96c56738f4dbed5209893b89133df2d448bcf9369bf098c18218ce77681bdbfc10f2f098b8b9e8dae7b960484bbf344445c81ef9643403de805997db60fba850283b8bca4856d53baa03378e2adbff99b850e5da4363fb3ec436cdea8d4141809ae1edb2ab0d9262d5be6babb0b67a29a63fdfd1f17db4c539534acfd609d024a8effd10b3db7f205b0423a9af4f64bf90a16a92dece42a5cb8bf32067b56db4d781c0b5992ef1bfda7ec8a388238ec90559462680c9a580584d6a3d5b7c9b179f792287ab4789d764ccd6163ccedfdb7033100866843917a6aa30c6b02d55e4293a20100f5</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854igd928b93b1e79d893650a294a9b2f9209291c9de68c4801e0a5a77c7c206e2999719023724d300f3f0f45f4677238839a424d0e83e9c6012ffbd93e1e61b54375dd583a014f485ef7b8cd40d8b3175b5e90f7f885cdab7a6c926e39da95ef987e6ae6b1eb7b56fa29112ede16cdd01c82f0be1dc1e1420cdfddba11fa2c123d6b1108aa6786970ef4713b8c292f7ff345ba351e23bba2f3435830b1d488757c73de981d1c22a3605fc15913d12892c84772918d8954484bf8c70cd7f068ec69960c069f1b6d0e86e1dec6fb025b1df678e1bceac4a90ea7bfa81a78</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="ProcessInstancePhysicsService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSAAASSSSASSAASSAA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">ProcessInstancePhysicsService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogsb40583fb0ab15db9f29542e78e697a3699bf8edee6aa4543ae2257cd930475a4b29d7b65e8cd39684731181385c69c337ccf3bc45ba6ea610ceccf1f42d71c8a1db30fcf15dc1fa23894f23e1c6833f6873c77703768e04b009926b20e971d4a50f9bd199824405354cbb154d729d5b859452cb47ea160f7e595f710f44964b3ddf76399a827bff154543cc93edaa6b3efd99d0ec2c425fef0b83ef128e9184b72c5035b3a7276f63daed2041c3748a5e03af159d3a04bde7ba43a66c672447c3886cd71c9a0ab3d6880e61e518fbb122d82f8a291f970f114dad31af560668373aa23fcd791adec4099c728d4e30d61a444346781810ff52aaed6fd3684034d05f60bb10a8373d675bb78ea01ce4ea7e70ff21bbb6462283453f5b820a1379ffa27914f37ddfd2c4303e2d287bb06fdff8cb25981add2fd79ffa6f05fd4291c76457c687ee98d51a3e5aec27a560c7493bce22c4365ed8f461613c46c62fca2bade967e7ec56bdb</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig6fadbf8610b625e3ca8905a44a1c1b47f7e6a23c52527c81d82cd3cfa7a729a51878b1fc779d916671fa81da944316236c8dfe71619856feaa413171a1c53af32185d5549d4cd235412f9c8e6bbeeefafe33f0d70325a265a65ad259e413555146b79a149a88042be9ca657b6379af63dbc91b96ebe9b736ad0d161fad327e5ae1868c8e2a00175cd79742659510478de861820d6271b2e54eb77f2e4007d096985e1301492608838078805822be2d63eeb14b26561d3fba801203eb47491949e4d57e0f117ac14af3210cfd85620a44429a73fc6335b3c2f4e476020ee5b373ad159c84f55268db16d1cc59e0e6f664f916f7ee1586d38e3e972d465b5de22ba5edb1ead640ae316fe20bbc69</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="Lighting" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbAASXSASSASASAXSS">
+		<Properties>
+			<Color3 name="Ambient">
+				<R>0.274509817</R>
+				<G>0.274509817</G>
+				<B>0.274509817</B>
+			</Color3>
+			<BinaryString name="AttributesSerialize"/>
+			<float name="Brightness">1.85000002</float>
+			<Color3 name="ColorShift_Bottom">
+				<R>0</R>
+				<G>0</G>
+				<B>0</B>
+			</Color3>
+			<Color3 name="ColorShift_Top">
+				<R>0</R>
+				<G>0</G>
+				<B>0</B>
+			</Color3>
+			<float name="EnvironmentDiffuseScale">1</float>
+			<float name="EnvironmentSpecularScale">1</float>
+			<float name="ExposureCompensation">0</float>
+			<Color3 name="FogColor">
+				<R>0.752941251</R>
+				<G>0.752941251</G>
+				<B>0.752941251</B>
+			</Color3>
+			<float name="FogEnd">100000</float>
+			<float name="FogStart">0</float>
+			<float name="GeographicLatitude">0</float>
+			<bool name="GlobalShadows">true</bool>
+			<string name="Name">Lighting</string>
+			<Color3 name="OutdoorAmbient">
+				<R>0.274509817</R>
+				<G>0.274509817</G>
+				<B>0.274509817</B>
+			</Color3>
+			<bool name="Outlines">false</bool>
+			<float name="ShadowSoftness">0.200000003</float>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogsa2b911cfb91b6335a96776be926321902a8c3e9e748550566abbd86fe8e30bbc458dc5eb44f41d1d5909d8b9a494da8176f7aa1cd114d966c1c02d792ca9487813eff7893ca924c409cbf0d5101c0793584ae8bc20520a73798c6455dd7fc74b6a60d5b0d71aad9121ce44d30e2ca267d863b12000359d3e95ebb7ee56bd822ec75c258c78c5ebb02b4de9020cfd551d1c277127a479d6201a847b0cc7d4e7d2a2608927bdbd94ee946f5c8b9e5706e5725be8c92fbd47a3778fb06f73e04c1cf1fdc4054cde63d0bc31152f36564be94f5bf579df25c8e4c7c2753c99b1efb3d8fea30e9220448c32bd9c3b0e490c4f3cb056a8b2aa790dc168db7df58bc4b6bdcb971838815747462a85080fcac53662a208100144a859d2dd4fe118b1680d8f1fba44d223c684e9ea864b24b77bfe2a23f52b87e4d773df274a105c523e7a72d579b6e880490fc0cce547492fbe06f4ecaa5f1d5e44f84e14d2a7d308826a7abb3e039336eca26bf1f6cea736d2430fb32302345671427176692f0f36ed9950ad336a08f913a33244f4621368967c8ce367884a7e13ca53b4e62827f57a7bbc9725e10db22c9e52d96538</int64>
+			<BinaryString name="Tags"/>
+			<token name="Technology">3</token>
+			<string name="TimeOfDay">00:00:00</string>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig3daa393104c81bb9ebf805500d0f02f006b7d1753199cccdf5a0cc664df7fc1d03aaf166c78b94b78fb91630e8e9902fcac50a935a621c705bd6a005e8292d91a240455905fef9dc668955f9826b791b8172ea7e5fed755be940c3f998ad36f47aca56b76f3cc11695d771eef3733c29b27a8428c5f2b4a7cae22270bf1bdad9ded4e34088084f844b7bd02ed2b018f5a9cc7aac1b3b0f3664fbc4df94ffb5b8450315f7aeba7aad44db21f583126c615f14c943a4577c461eae740f01128b5bb3e14012b09431a2ec712cc342be9f542207ca0d695f0c26ce1ce08b0083cb539d59f15409e58bc500a42e4b9cd6ffbb7683e94050</UniqueId>
+		</Properties>
+		<Item class="Sky" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbASXSASSAAAASSASSASA">
+			<Properties>
+				<BinaryString name="AttributesSerialize"/>
+				<bool name="CelestialBodiesShown">true</bool>
+				<float name="MoonAngularSize">11</float>
+				<Content name="MoonTextureId"><url>rbxassetid://6444320592</url></Content>
+				<string name="Name">Sky</string>
+				<Content name="SkyboxBk"><url>rbxassetid://6444884337</url></Content>
+				<Content name="SkyboxDn"><url>rbxassetid://6444884785</url></Content>
+				<Content name="SkyboxFt"><url>rbxassetid://6444884337</url></Content>
+				<Content name="SkyboxLf"><url>rbxassetid://6444884337</url></Content>
+				<Content name="SkyboxRt"><url>rbxassetid://6444884337</url></Content>
+				<Content name="SkyboxUp"><url>rbxassetid://6412503613</url></Content>
+				<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogsf576ae19c05709c724eb6cf339a4d30ff6a777b9990aea0d6c77dbecb4ec5e11d226c8c6da00af07af39f468f9bb9557517ed3868d124d57b344327d9f7deaff2f7f8c5b41437bd9da3672952dca3ee3ac51f844e17d7f17157a033f8ac59e6931a71c18f0ce19184a016b06650620a004ded40a29e6f5cb86ad51ecde3f2b3fc8f8415313711877fe787fa754f5cc9ab2aa36c791dee8ea75797fe1c631973ad478c2af87452cf91728cb5173bb7fe5e0747d2f916c096eb3858f60394ee6c6fe0b3a85da5691c2d5eb16476ab9cb31d033fdc72fcd1d2b132211ea5c805160d216f7b30f24fac34288d1337548065fb203c063115ed77b91efce7082e8dbe54e2b1ed87892508a94c14f8f3473f7736daa</int64>
+				<int name="StarCount">3000</int>
+				<float name="SunAngularSize">11</float>
+				<Content name="SunTextureId"><url>rbxassetid://6196665106</url></Content>
+				<BinaryString name="Tags"/>
+				<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig3272357b809d6644498b215ce88378ee67eb5ec9b76f438ef26aa70d59312278c46f02da9e2492458a7383db112e8c57a7dcf236be8b84281e91a0324a48516cf7a5ee2c723871ccfb77705ad63f13221a8c2382f3ef6e3209c84d572a033f8b7ea90814af06ef7526a7352f4dd4625842bff6fb46520eb8f96d5bcb8e0ea7a6f435af5a0239bdab7fef92448b8ce99392162ee2ea96f015724cd0623654c72a938c876035ec5a934be7a1c93c8fde5c24002e79e5e59e9d183998c7d367a0436df1f33bcbd12d9d2df5f679b8d83d5a471397782bc6cd6350c5ba7a54c5d8a3bbaf06ceea430c8ff548d9ebe6bedb0620208bebed05c23594bbf18e8b05fea49dd87d9938bd203bfec118ef28ef6850</UniqueId>
+			</Properties>
+		</Item>
+		<Item class="SunRaysEffect" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbAXAASASSSAASAA">
+			<Properties>
+				<BinaryString name="AttributesSerialize"/>
+				<bool name="Enabled">true</bool>
+				<float name="Intensity">0.00999999978</float>
+				<string name="Name">SunRays</string>
+				<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogsd3f0d1a9c38f4ad0759a16ea1ab6062a3b6a5eba7d1d052fc4b420c15b7045cdef416aedc022e8e9fd586de35d671199f50cd3f66c7a2aeb20ec80bc65ca7bacfd829cc1e773dcdd763b05017dc4453667e68f4efc6a40af59a5029d85ae9198dc9b42bd31410652fcc8c10ab28e016fbce1df6e35247f4243c2178ec2dcee77715f0cb31f014e8ed45aabc360a94e698ab3d099e110bb648a9278ac199a7aceb86f033969b84067655cd21d57711195eeccec7502f0e3e07ff18357fac78c9f4af0895f8ce63e994370e6722de6ece1d2b4fe00126ad9f1ee0e8619155535d2e28652f014f57a6059146103f13fe36c86cca3b10129c0fcfc6754035feca735d83e86b0fdb1ef24da5ef9f6d6b986351bd0ee23ece7ab7e547679daf7a0acc8bc5fe084448bd78b63ffe53ed59988ac798e0a439292dea3acf2d4de1e0ebd56d14eb95645f95e2b7a5195277fd7f58ac8245d531b1313611cc4cf93faf97a44cac10f37cd3a4d46bbd097ee337a3459356b501bb24c6b219e8f3eb07726b6633f09bfc91bb8fa01f0644464504f5e2367e456beafb2737d866dada23a83a80cb9af555e7433d4edeb7825ab13c2910ed35056299208bb3b524095471dd001ac4b51d0392807b7589c336d</int64>
+				<float name="Spread">0.100000001</float>
+				<BinaryString name="Tags"/>
+				<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854igb8161acd5267c504318ef4c94505384684e2f0ea5f3d735f55ed1f20ebf2f733e4e4ceab94fb93d92119ece0301618dde0c6d96a1f8baf1063ac296ca02f67367a03101f87763e0eb33a96560e7c93861a8433d57fe7d59449075dc6b0804ff5e9c78f54c41ca3084c5476180a8db4e4c2b1bd692127e6a403a72bd851f251abce2bfee302eb6b659d83edeb271fd8a078c3a775c891b8521b41f9960ba8bd6deef30ef910d392d19ba72eb06b7f67794e0664919a1af289727f</UniqueId>
+			</Properties>
+		</Item>
+		<Item class="Atmosphere" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbASASAAXAASXXA">
+			<Properties>
+				<BinaryString name="AttributesSerialize"/>
+				<Color3 name="Color">
+					<R>0.78039217</R>
+					<G>0.78039217</G>
+					<B>0.78039217</B>
+				</Color3>
+				<Color3 name="Decay">
+					<R>0.41568628</R>
+					<G>0.43921569</G>
+					<B>0.490196079</B>
+				</Color3>
+				<float name="Density">0.300000012</float>
+				<float name="Glare">0</float>
+				<float name="Haze">0</float>
+				<string name="Name">Atmosphere</string>
+				<float name="Offset">0.25</float>
+				<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogse9c0ec231f162bc875dc8f1492990042c36fb9ec57bcb0df0bc3a6f9e7d8a8cd6cf852d8698e5a4ce79d4e6d59fc59711c98895532cc9e59da7e64cf5ffede80d8456880eb28b6f4cc114c22de12d51fbf751b7c344107185e58a659d10cd258c2fd367e907e8d9e682e682bb031ebfde86a263ed4ca542dba0ba99974b66394a72809904719791c5cce94e7b7983d2164b706661aacc54e1735a7fdc9a8b24493f4aaefe53daa354bf3e20042503cb5585215e714ac8c34557c6af949e049327b2062af310893ed9280231d61cc2c431130c3d1fcaccd078e6996f98d54b1213c79c893904991c6cb62a25eaf1a3783e4dc8607641a3bbadef5717e09355e80f9e35cd05543bda9b5400837d447be76814607602998c916949e26fb4ea5a620de78a227022490b8e9131f2a08116ba74cb4a89862fa222b2998e043a55d0baf86eaa6</int64>
+				<BinaryString name="Tags"/>
+				<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854igc4c73f7a5304c22a873127eb82e1e926c8380c1691b55af0d7faa3b1c8692e70652dde0909c7a5d082dee8099836771ec9b5aaf582e441a25c75a20cca34d7d050854a501ee0c0097d89c41c25ffd5cf3e74e0fb7ebe896335b7e9af06edd7c1951d2357d785c59ed53ffa7fecc6cfc6c8e9b86be08cdc7bcfefead225a6c0c3f76efffe12a544d525070a3799f49dc992b463e54dd9c2e3bf25a29f68339011951b5f4f5f0cfcb9ebfa337e974bea</UniqueId>
+			</Properties>
+		</Item>
+		<Item class="BloomEffect" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSAASSASSXS">
+			<Properties>
+				<BinaryString name="AttributesSerialize"/>
+				<bool name="Enabled">true</bool>
+				<float name="Intensity">1</float>
+				<string name="Name">Bloom</string>
+				<float name="Size">24</float>
+				<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs9f07fd3cc8b1db7939eb874a67922c53eb5c82bb9b5cad2a8bc9e62623412dac4f21061fec958fdc2eafecc732b3698b153a7df6e64a357ca514f172e2c95c89bd7ffa5b007f69d313e67e1a43434252f5d891d499c132b4da2b252854755dfef3ef5babcb62e3b9266bb3058fdc9e03eec4166cdcd1c0156b6ebb413bf8d7f78223e8f7b0c3c0fb88a42495dd4eb41d962f172675976c6c6f821fc9d011eadc63549ee65c2044d6641813ebb45c63ccea2f8945f09cc91bb222f2414987b0856221862adbf092fb41b87c71a95e43f72a0a28887b6e081e821158a9ab74c61b284f880c1e6a70f07c6f70ce37b7c186f47020fe7764146f48a97aceb9d65b5202d06791a0a2a4e24af406683cb53571ef18a329bc9d8af720c4fc85300794a5b7d4fd44c6f699fcb05591ecabb6c8d2a72f69425a7166341ae4e27bf70704da353d5fa9cf81df5e8adb0f9c83a9fb68d66185d1ec700d891790ef29256369860b0a078d2fe4e584847690d89e2b8490be4134d77b2154617b73c7c280f959bb858ad67e8ebdfacd0ad89f00ed0657b26cec7d76f90e68d379c4b85915270f526543e0078c96a56b6bf77599a3a38c1648b7202c1b82ffac35200d6e970a50b234b928cf3e5b435aa8f2317880b7bc258627b83ecd2b333ac77005057ae9ba772c38837e11f536afe6</int64>
+				<BinaryString name="Tags"/>
+				<float name="Threshold">2</float>
+				<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig5988d7830b49f14004e3fbac93c907d205649978059c1dcc7c6147f5707e7ad604d12e1e581eaa3f729da2396e60b3cacd208b82a10e1f449a4fba90d6a5e8ddf6768500c97cf84c245e934ab8b6b48e850d4ea862c62b52ce91c6221cd712e6b24ccc80d8359c1ee27b5a42d11f1e3c7f8ed5bf69b8731cc53b6fdfd29d0b7da41779441da27e4f94d81585e9a67aaf7286e6d7e5c94bb254c4a208657d9114b13e11dca7a6b4875233718786ba5aeb522935d32484365562a5cf9bd8453493bc045e3d9d38b4daa1fdc81fdecdb0f7713b8f2b8e4a5352e0f3</UniqueId>
+			</Properties>
+		</Item>
+		<Item class="DepthOfFieldEffect" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbAASSSAXAASXSAAAA">
+			<Properties>
+				<BinaryString name="AttributesSerialize"/>
+				<bool name="Enabled">false</bool>
+				<float name="FarIntensity">0.100000001</float>
+				<float name="FocusDistance">0.0500000007</float>
+				<float name="InFocusRadius">30</float>
+				<string name="Name">DepthOfField</string>
+				<float name="NearIntensity">0.75</float>
+				<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs734a47052961535c0179bc456d2481da559107293fa9c6cccb670cf1ce393a3be7a8352f687217f0ae6c80fa3d7aade498a7196ebce7516c0c84882c0907804bb58586cf1f8d2aa097b4c66afbe4882862a11f76e42bd05b62b0fb709f0acdbad5fcae3177b856df05cadfd3e0d23c6f51b5dc751cad865e64d0b5ab4a5ebfbe5c7cca7208537102e847118fed0891af0c7062977980a0cabecdaff5404204fe4eba0a1f614583c79c9e776c56b585985d1a615fb36d809299f1c556866caad807eecb162f26090d8be0e120c6b69e7b50d0fdd78506b545e36bd8dbb53d881409831b58f6b6da384bae9bcf38f1e572f164949d18360a874b3f42f81052351dbc46be43cd</int64>
+				<BinaryString name="Tags"/>
+				<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig808e96a42bc9a613cb05ce58ff0191b5b0db5f06351a34aea52e1318ff5061d8636642f21e616170fe3f13dcc9fe84f0f2c5000751836504aad4bea1012b2aefa9f52e21921ff6522d303d2ce97e955484f86f723ac8821a90bc8871c4e03ca08876587f6bf5121f97026687bbe4aab2faa2539fca13262379d0006693616f793d28b7e9d981b2c585fc3c7d960b269f43f3041df7350e5512629159a54ab4f2dc3e8b25abe11979ed56501dde05a4c20ecdb312ac26e3a9cda55b9fb3c84e8222be40633a8677d66c0124b8ccffc9b7aacf119d15fc5744232dd6018f8e705f760a973ba9bec66b70d7d67a0913a2f2d963f31dfb56516931db28c4e943</UniqueId>
+			</Properties>
+		</Item>
+	</Item>
+	<Item class="LodDataService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbAXSSAXASSSSSSAS">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">Instance</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs1ca63066f59e36a905668f433f35899359641e42f46df3ca76a4c6c4e725ed599fb6ffa7897314d50fb75accc4df68093e60853868ba20cf466c1cffdd999c59a9b25b4ad5cf31038743825ada95c70e700f3492fdb8711c0e8fa9392e83fc5077e4417bbe5bc6882487e94482f94ae3f9c46915c98b025f8404093ac5c5dce8c6fbf13e350ca737f9705c584e76ab8cefbd3b0d9f76c860359267e543bd703e5a4b02871feca4c5670a968813d06f9eaddbbab4587957577b904f0f94ee9f6d5afa5bbf2ac3cab648324ac5578a0e4b8b2e101687c1d18492801ababdea75b53465b1007fd96315c633ed2b607dc44ed57086fe8fc75af49fe61a84129d5ec7a1669f0c630ac1e6af364f30b89a793586172eca4c28aa60234bc9235b362928630fbd0420b245811a432dab6325602e84a79c5cea13636625ddd6b5fb28de00d8f17076c8708297403191cec767ab032bc5409371323d63cc738be11860d975ee991b87c5ed1e74cd1b1010dd02b6e2d56907cf758cf2b3a27a8342dc4a8c46f12e75cb2edf7f459fa18aef40ed8af8f1be29d6fe9ed21dcce37a0baa9a1c4773c5ae6b424b946daed7ea7230d9c690246dcb3c7967a70e0bf8</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854igca4213c7a9f842f39d345ecee0eda8d698f7e0debdf14ae26c704f173eea4f2d49d0db646a6239d160db1f3939122a4e4c21bdb2042b06d7abf3251308c4d6b19bde97fff73e926346a3a9a0fc2a8fe51997b3b0a2fb67cf592f881112e818a5ceedc842072a53dc193b3a8a00d3ed39c1b498622898bc024b7572a93ec8f8d19b4c46ce2f181b829136bb782693a31ee529995c3cee8f35ea127194ae0cada63a952a5825812869b9f23985fb9f12a9cbc1107124c7a59c9768789f811a4366a112a6230de84f5c84e3db0ac8530dadb63010ff210781fc404d19cfb8146d869877a95485d9</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="TextChatService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSAAASAASSAAXAAAA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<token name="ChatVersion">0</token>
+			<bool name="CreateDefaultCommands">true</bool>
+			<bool name="CreateDefaultTextChannels">true</bool>
+			<string name="Name">TextChatService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogsda6e9746775898f0e145bc8c4feee380795617213f06bd4d3e5f84aeb97d03e4ba7068bbac0bf94568ed39e22fe4eb9badc30b9847fd9066ca6901bcb4359d26ab15ac0a5d6fc4d920c06cf4408281d1c47767583d48957424257d43b05227ce2396cbcfe820cb8f73c5080939a1c0dfd8ed66da7a18fa8bad583942fef77210bd3da5795cab2b2f7cb8bbf6c83759a0df044336f647843bfaff0cb68de098242875d5ad8278e8c0d028937a5cdc363f0aea3e0a8ac36c6d9edf53df1c622ab0aa455ca780b7d0023a583d903e20d78b32855429daf6e629e35ea1b8152235d78325568b76a844d668a33ec28f2af1b563d3ea5821fe90a43dafb0b5d452eca284d9c5c4d5c37fb9fa9edafc81901089e7285804a6fe13fc1a1125634e3cd80d2de942c316ae243259136c65656ac8c062110907c3cf1ea2cc4e2f4f14b37b7610cd66e5963c597df6fdde37b3daad9330f2cb151224300792915be6a3e444a8a12ab4bac2c1e0872b3f19c1d43205a4beae74517ae6f4a04869d57e38d223e842bbf2e97df2b4f8dccca0f2848a1b3d526fc15e6bc3fb7732829786cb7ce4eecc68a6a29ec7aaca09d643d10ef17c5d8bfaaffb99007d681ae867b5c8190669503dbca092aeb057290473ff0d1d93d6f64eed210ab1115cf621cd144506f21cc60758fa279d03</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig69f16eabfcabb22aff1c4ee82037311154701a6ca96b51e07b3061a285ad7340c3c834d6ac5706fc51edd5f3c5acf4cdc1ed84d354dced01308f76254f99862a86809ef2d32b442e472212af87977f77001f247483d271081ca67fcb426e1e13f83d1d6a03fe7944fed4e77ac7afbe8e4e4f53852e2cc2b284db56c292c0bce0f11c4022d75682f72a102cb99be76bc10ee13a2d8f72a5440b718d1908e149538b280b6f7a065a184b48096fcce93381c0021b947c386a5cd35ef53b24a36ab41930014a7e99dd736376c6bce69c3a458bf47146c69a7ccc722c391730c4a2449dea60eac0f5</UniqueId>
+		</Properties>
+		<Item class="ChatWindowConfiguration" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbAAASSXAASA">
+			<Properties>
+				<BinaryString name="AttributesSerialize"/>
+				<bool name="Enabled">true</bool>
+				<string name="Name">ChatWindowConfiguration</string>
+				<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogsa5544076a5ea5eb34ce49148322316523bc67bcb911928f780d350042ab705a6c0b5c8753e5f7b465b9aaf4ab0f3a351d4b7f90545aff4afa7a470191eee335bc324a55649ace01dc0d958cd8f35fecddee86f60da8f7f6cea4101d4429ace91a893d4a2e84c5c652c05d2c65c53f457f7beb1e93d0568ce89ce2d4a31fba48537fdf86deac6272078f8a6d7152a9046f2d77f35b28f0de2a12b906904d2ffcc9941c591b2f72b8bddcce3cce947de225062dd459bc6708cb1effd3523826fbe37e6e2a75f31cde836b27c78ed206385899b07ff2236811bc40bfc5371fb7e666ee211d7c6ef156b6b63033786ed5b5fce5cfbc8a8e938d6087278f40582fc3f22da6d07009093bbb3582cb653113bd5b634e1f19c0e544c552835789e9ae25177e9b0e655139e01b6d405e6ec7e0e3b116db4870c0f7ebb95867aded644a868b8432713849c426b968a7687359ef3f72112b71eef2f52a2e7391f2b0019d57e9bf4c92fa49539c94051569630b710ef6f1c42246c7280bb428abe20df87ac5a20c410fe372820902e0e1cba3f9fc8a8b1f0b62395839e89c45ef177b94e7e874fbef4057ab912107493d3398ae798d8186159f012ac8f6c8fd9a9a96c983b02abc7dc996163fc5309391deebc2f568f7236a03c486607a8dc0a6f4d342e3011d8fbb0c3d283be49a35311f3fb7f921c95aeb9</int64>
+				<BinaryString name="Tags"/>
+				<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig66d1d01c20594797d9376b42d657eb08da720c86f8a5c756acec1d9e40fab4e08c10f919d8180a06d76819cc867950b46c6f26e51c4d29ffa948f7b24fdb3339aa175242985613fb10dcaa0a2b39f65431858ea37dbe278f6b7b612ac66dad7e89d8b507fa81c1eaa010cbeaad2da72fa6c7007db7fe21ca1036fbb8a9580a0b8204ef3604b5eb97f4582f5d94c5dda6fabcc638d7d628df2ac2c968430280841af960b7de6a150fe40591f6dc91fb4ef07f3785ab3a33d45e6b9babd36a84e280f60c0bb0528ab6b7b879b18034fcfe17066002a816f1315c342a3a793434427af5c9c5a78665884608af75efa321bb133a4c8b66bb91cbc35a0c9f7b41b176af5ce2c2c5c7b0025763bd890763b909e7d8794782</UniqueId>
+			</Properties>
+		</Item>
+		<Item class="ChatInputBarConfiguration" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSAASAASSAAASAXSSAS">
+			<Properties>
+				<BinaryString name="AttributesSerialize"/>
+				<bool name="Enabled">true</bool>
+				<string name="Name">ChatInputBarConfiguration</string>
+				<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs5aed35e89a986cc2544fc02fc24c4a8d48136cf56d09d8da30775ce7ae3634684a76c2646afd85458719fc561b9ecdbf95474654e8a278baa37bb94c568f277e45a965bc2f5de3a9c0afd1c0186feb7d94a64b29dca8fb4d70b9d4557e4eb9dd9605610e474c2525a2e889e81f0ae87c675d1e61ff90e5703892bb726357d9f91edfc3c927d9c6c8db4a402dcb10c623716848c97ef66e57c563d26a7c500373178717a9794b464b200dfc06b7c3b005e303cc74ad0c4cbfb09327bbf793f1bee58fc4383e08567fcc89a763f0641b64a204fe1da24a2687a547082642158cb1b7bbd17899f0a7f386bf8d748e90014cc89e69bfda73b6c243c357fbad7d6320abeb0197d5570e82d1afe0661b97b9620b37f50828979f83b9108f2c60930e7589f5da83e5ae5878699c40d0429e416dff78542679dd2c0163f189bac25a2b32fe29c4b77163e1fefd13cd9c6b28ed1a44eba81075f333eede218f031172610c7a474cc8b6616cedc587326886ccf1a3cf8de8b0f7d82c9fbaedd7f34038eedf4f2bf41aaa581d4bc5e8f0240da55591a5afec8f8cb8c7778a54703104cb4664c9dac70796baeb0c8f</int64>
+				<BinaryString name="Tags"/>
+				<Ref name="TargetTextChannel">null</Ref>
+				<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig963b2e96f63fd07d504376792018e0fd2f7425ffa7a71e35b0a9d93db41d7ca4797439feb9b8ad31ae1dee2427ae021582afc046455d86e961b9912693fb57bb020096a10360e22b45d8189f51d912ec9be24b687a570eb5fafb970cf8db9e71df03ef93b9b470fe28bebdfe363b05b5a4d8cf5ebd15195bb77d726e50b6b3f3eaddee2b2600721a418006f0a4aa03fa1dfd1a8f22f3fcf4030e0a8896bc44e48ffc1e4d89658f1cacb0b8949a2787283aa71665a076357d7a7752b898925c79501f589d2387e172f5984a70f6c4aef53595fae0763a91563636bf65aeecad26f8f2ea0308afe3043c859113177a7784a64b156e0cb1a0cee7965f681be85e30bc64594cf8d4ffe35e</UniqueId>
+			</Properties>
+		</Item>
+	</Item>
+	<Item class="LanguageService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbXAAXSAASSASSSAS">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">LanguageService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogsb9f2bacc2a6a4325decc8a02fcbcb484db006eb570d14cea6dc68f18ee8184b227fa32d4027429427e59b7b42671f93b5605de3df222e43d105d59c3e1300428fbcf56dc42836b279c5f4b092d750849c4acda6119cd639267463dce0945058e95d0aa86951b8c5d6c4b9f13821c5a8e18492cb6f24791a9c1225d39227280138ac0157d206b7a159f06de9ae0b1e2bd132526e0ccd320a2b74ca69715bf41ca58b9d71018f581c0cebc03d215792ed6418666ac5ff162d176b12a6bc86ab96fbaa0125216933449c5ae679314331c2fbd8e37a47a6c41bd1935ad1e8550714a938f2942029f61f858</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ige01da97d15eb066bb5dbf8c3ed2937095713c2843995bb69c561a36a016c226440544cc85dd96b4abbe1ae151ee8224310e56d8dffbf5714fbc066bc59cfc237f1fad11f0532a1ede617fbac02a31f97451c9cda3e222df12934dd94988c48f6666ea086316ed5e0980fd136f9d3c0a4f3b97e1d97f1bf96bf943b317e83536d6050f3822b4e7bf7d368d00f080fc36e10c13da5822242b9929681774716232130f04c88d63e30600ce8b25c52759bf6bfc8866d23cc43bc67eedcae72b450b18c363878d08a1033e6f7fde79bc7b3967f83a15c2d3f1ec5501f2fc48be34b2119aac710524a089fe4ce898334995d3926c7d8e824ad2287ae105f1f</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="DataStoreService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSSASAAASSASA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<bool name="AutomaticRetry">true</bool>
+			<bool name="LegacyNamingScheme">false</bool>
+			<string name="Name">DataStoreService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs36f324a9c73d5f9493743a323be1028b67a0130ceeaa30cf5f07b24a667e67000971c7ffc38329859fea40b880d675e89821393c7f3ef58a267970e734e617d0043af67546eed9ae4b3de7bb3ca3ffb9cc0593176bc6f508e0b13465c8a1cfd3c01eaae206e7f77618a05e37b463594eb772d221142a5130ca784f73dbd4d5ecff08ba69ad3039676ebbc04be9a60759520fe919d09ad7476a91bc38d23409dfdd21b6dd0f26e34547262e42c2624fd0fefa641af6888485babeef5ec93f5dc20931dec547579ba04c97383e0cc85ca56b83ef8f44eb932809425dd1c7ce33a8123cd3247651f69b8090f275dd9cd668a3ef7077f6f5a3f297d4bfab6127f72f45865e814f26101e8d2b885864a61327ebfcd03dc08730e7e056c26973a67ef816315e1c7434562317f95073ee14ff954f3afa1c3ec8772e5d1c342becd24a8b08b1f16a44ba5268b0a14c02df18f0875dcfb56e8356e76d07e78c77a9e2363d0ab364f53aa3b92e08a5e754632d11b23ec96faa35c4f7196b85459423e0f2f08568176cede004e375a55d728c78e7db894bf15a21b8ac3f60418db44b9be37554ef92b4149e0a62ac6f73a59457ee1904b093b0d07c6a03482cc0ffadbe6b998d82b08671ebfd3ae76b07fd425bd0ce5486a78c33832da5a9045be7ab588c1d05</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig149782c299316d122e0eb6b0991848ff8ae5620420e145bd2263d1c2e762082ab8deffbe34bc7eb9107dd5f18963fd4e99062e5a834f006739cac64d8bb5ccc1f945cf870be491d1b0fc769f7ad30eae09c220d1aa65966fdd084fe5b3a63e1c9e0d1cbbc7425f9ea98cda0fbaf970320a2f2743fc45d4f61c3e075964acc1e9c71806f1e5cbb714324cdb51f4e527b99dbd8ced4a5b81fdee6e72be54b0a7c3535bc9d93537c170b01ee17883e00800ce49350e050b1ce1fb037d6d99429f68c121a5a9039d7f2eef456928b2468358801f2ce4684ac3b18533b2fd</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="HttpService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbASAASAASSXSSS">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<bool name="HttpEnabled">false</bool>
+			<string name="Name">HttpService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogsd8a155abe2a631291f854455c32caf9170b10fc6559a080dfe9bd96d7057f02fdb621e52f113b182b7489a8f8161497e6617d5445ccc6dbd2deee7b5a3b95f6bdb86c52ebfe1a41b2366b619bbfbaead3536b16d0b34ca752fc038dbc611f01217128b05a2c4f081685fdb8dcf4638745c0915f35d36da0177717a804d9a877a1de8a00984d65902683ed8b42760eabe234594f5d9519aa43cece040fc6604878f4f1934a7304c1350338b50f867f5cd617902f55c8fb49438996216f01063c5e044143d0a5860b3fd6a16dec70a12731ddd368cd785fbb019b957c7ef05d6900fafd7aa5ddc84a7360ea54631b69985fc9594871e4933c15ced5ecc7252755e503c3e1550cceaeecb0c98bc28fb0ca1af97392f5243559f2ae4f7d4973529f57aee1d0fa4dc1421a499923f8c8ed024e6b1a5be14584c58bef592910133ba9ca25316934b8294d30c39ff4b2f57</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854igc6814c0d3d762e7072f50d6794a592fa9daa8dc157bb84ca0b112ccaa45eee911620359eb81a0568223d390bb90bd90f2a97eae2a078f07712e9a7ac10791857c8fab849391fc4a10ac1372cdf83946c8a858117d4c8a6c7b693d398023b1719d9dc7943727eebef4530f565499cd3278d0a5f08fac61233c0f730278076338a22ad425a7cf36c05b84aa2cb0247c13709710482d38db3973ae12510de74722848d0efdcaa14fbc5ce07f790686bc25a50ba0e076197704cd0390e6b6cd92aff7320c9fa6cc59bc6c8ff1995fac13e9a1f2f541efd4463f5544f41c846721562</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="Teams" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSAAAAXSSAASSSAX">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">Teams</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs102322390fc403ddd7ae78b006200e8709fd5295e184320d1308c1c85cd6826868c78f26898b7c29c58c4d6cc77b485c2778e179ec9fe83482f461fadc58386491971c2ce4bfeceb1b9b81e844a9419d528234dd33f16a0051e3763193ed6258dce0a803daa6081bc2e29ef51de8c38c25132f6190f499e5a675da14ef410ddf1f38b3e451f93eff6d63b62f8e53e6910a455f0d351eb2e90cb59e9615dfa62019d24b7776acc29d15641835d10747536343e2231260eb4ce9d581f226eacfe65ca4fa8dae1d7425a97c00104466b09cf13a70e13928164cb0d2573c0ff47f647474a744f34334306ed8d082c5e0ed2fd5dc9d5d694747405a7c6d0ce451ad139166e2239748537a4eced3871f256b13aca393cf171dcd54790ae70f7f35eb84f888450321e5976baeac69bb3d4bb64d0b994c627a59838df1574350</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig799770f35128953b4efb8d59b9ab32cd9abf3cf9d9bfe258df2354d79303782e368a91dbe90877e767d6e130a44fb154400c91d141f77fae697ae1b930e90b66962ba6fdfb105222bb47c2ed1e5bda439112edd8f8150efa7df746604e5a2292e57e0377bf38c45b2582ff09eba9ce20f70014cb6b25c2253b022ee631e8b7654a51dbfdf43a472df8c511b8b8108a065d862c96726aa43dda31481232ccbcc6bfb32226c8d6c24321fa2b563fce023b1ba2c1ac703d37e8dcc7e24d03523f96ba572c1b84b170a751bbb2adec487acfe6872a1432f914cd14d075af90b9407f4a9034ba8551ef823d72508fc0d843409278424fe3bf8418c193efc79dd5b11646b3c0c82d1560992f</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="TestService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbASSSASSSSSASAAAAAA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<bool name="AutoRuns">true</bool>
+			<string name="Description"/>
+			<bool name="ExecuteWithStudioRun">false</bool>
+			<bool name="Is30FpsThrottleEnabled">true</bool>
+			<bool name="IsPhysicsEnvironmentalThrottled">true</bool>
+			<bool name="IsSleepAllowed">true</bool>
+			<string name="Name">TestService</string>
+			<int name="NumberOfPlayers">0</int>
+			<double name="SimulateSecondsLag">0</double>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs60e0eb1c259bc93754dec3f765e84ba10e5f3cc2f7f0e4a576597220b34599ce6a16197b444eab5da638c20d48b5c7aa3b6fef782e510f1843a02cd869f06f7ac1d7c0e162cc5c1e0d5307a354e691ed36fa5dbe9cc88fe764a88823332dd4a903fce4fcd50471f50a3951b4edfb0198689c604f31ff720071cf0911061d7d7b1c4c0e4d018becf30269eb6bb4807ea9b0160974f80f73573401cf0de0ba67810f287f530174ca317cfed87065bee9934ed3f94015f5796e1b2fad6d210c976cfb8684378c37409aaadad47347ec8a205eee91f234ee0c39b135f655647657423ebfc43f580835c1a8c28d1794837c4e5d0d16dee474344c051f97220498b03b0ab9d8b25cf6efb3760ef72c716ebd741a1bf44d9840c5b773</int64>
+			<BinaryString name="Tags"/>
+			<double name="Timeout">10</double>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854igfd8a30a563a16cbb6471b90d8a87004026c6e890f602fa0befb645e610d08ad7ee4f7c55e3b3d6da53f7e0f7f30a9f00fb7ae2781c69344b5e35c8baeea64ed9cdd836214b8b88b57e4b2c300404b2a1a884bc87b515bf83f752b34885159108622f291f0ac8a5b9c56762bc55cbb8120b9416442d8adecfce241bad2e0a20a8d583b401ada8f0d9aab321f01f4c95da4694b82294e5a335d8f11de144b10ead9b951861dc2189bbd84d77fbafa28e91ec0b09cacd8e05edc45fae4245422aaad15b6ec0bd3d9c4f42d4a63d5e12c1868e1d8479eac7ad23a05deb024e5d3fd0a7c7856d22ffb38ab188d8f8d061df7b0c5d3c62e29d61559f60e1fa4c268b8ce4977d52abd180dfa48a3e588e56c413e074b5652e0c66145e8b7c</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="VirtualInputManager" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbSAASSSSSSAXSA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<string name="Name">VirtualInputManager</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogs9a3e372e39ec0ab4eea41349075314d3f28ffafe51b0738f40ee83012f21ad794572e1865bbb87ac03b0f17205f1380565ad0b729731489dc2e3cd2b2a5c0cdac2055ce2b12b3696dc7fff68cc924fd6dcbeef61ef7630ff0704891ab4a6ec1d8c152e857958aee7c31aa8f07909430497a37649c0f8981b6459185177ed61602e8737f4fc9f7e71e6cc2d2ddd88c08e80ada72ff091f6ef3c43d4d8ee936d740be924cb4a507238223f86e46847e4cbfd9abf51e229254763c04fbc129735f0252db0c8854260417b26eff19f9802d330184874a173cc7d240099856d7b7d3d64d889c1627e0e4bff71c6d95c98d34c21d954a4ce0d6397eab58f83afe5961e5b595e1625f605610834e2aa06142a684a132b34297e03277a562593157acb204a12fa987b31d7b7e051215f0370bd38c8535b76798ecc20f53e20bf70888d9712d55927817fbab396a0f5387de9e9b2d6af3029aaf9576c75cd0e7f89e00b59a30fc7e533ffae580df97f7042703b6589d0b30981681cd5810d</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854ig0299c10e5597964248b5eaa97ff20d55905ad6052cff0711f966307cdb026e814a7b9ea0dbcee928efb4a874256aa5b9a15fc02f21bcef61cbdd8b125297d83e69bea160cdf018f7bfdfc80bf72c9696ef7dde196cdbef9427b8d0f7b928a110eb044bdf1815e6be4c2a37ab1caa9bd3e853e1aed13b07ea6004a96ccef156e617112eea98d6d1323776404a0957c99f97915c629af4a67d5c6e71f07a4201e8d5d3dd4b0621412f0a571917c8f152c0f277267a014c3efce29c6d9a59335e25162b908d983adc1b684db0447608c7d3d901759ba6ceb6be0a59ad78877ad886c8a2c53dd3f6a37c50e39c202b2c95417458f16a47</UniqueId>
+		</Properties>
+	</Item>
+	<Item class="ProximityPromptService" referent="ds8dfifdsidfdnjfsidfsifdjnfdihdjfsidfshdouisdhoduoufgdhcv80vc0x0vbbvc80v08nbopiewhjeoprhvuovcbAASAAASSSAAAAAAAA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"/>
+			<bool name="Enabled">true</bool>
+			<int name="MaxPromptsVisible">16</int>
+			<string name="Name">ProximityPromptService</string>
+			<int64 name="SourceAssetId">fdggfd-fgdgf9ddfgrturteorthfdbnovjbvvcopvhbbvuycouvcbhgvobcuhbvoubvchovcbho4urhreuhwoeruhfdosghfdgohgfdofdsouhfdgohsdogsbb1b90b1818c65efc8925ca817519c094656e0c0f3eb12d308c708e6c8d84e799e99c116d5f8a3dba78a8ce22612248710d5cb2b9018b62577c6e32819fddd7ef4945d763d7928dee095ac31d0fc961c0de30ca7ad3eb58e0149e4e05478d4f1954200690d50e1e4bf18d9877000f899308d0df70e96fca231bc1cd2e217ffd004750836b72404637d892bb51f7d96ae35fe6e6665f837a9c53ce08307c0458b58e11e490b025b08961276400388655591e604f7e1f1a829ac76341b6b62680ca9b51d34e98ca88eee295dc9ccb868fc61bde3538af396bb902ec283eafade82bc08c15e689fc5b8f000bfb36516aa1bf737748fa41c90a454d356bb8d49fa4b287185b1d6caaad65bc4ebc590bef655d33b11c1b79300b315065b69bd0520b3a0aa6ff5003064b14d4eafb04c7f9145d42431024d29241db8ea300be29dfe446e068baf161278789491c0753a8f6e186ba2d71707e03df56c7572a464093b6609296c75d433bac41bbb37efa7f51c2132657fc5c2f51ac68aa469bc291cc39e6c30566381ce6b722a92a0fba888d3ddd2bab41b20a3498a9c8baca7eae2a96214148143abff9e7dcc</int64>
+			<BinaryString name="Tags"/>
+			<UniqueId name="UniqueId">38hreouewr089erw80h3408h230h3240834h08h80eh8ds0fg0fgdh0dgfhfdg0fdg8hfg08sddf80hdfs08dshf0ds8h408h085h30854igac7e69ba5a706463e257596f39e3ea716bdd84769dc47a4e96f852ceafc181adb0288022669f0f7c627505c116809a018efa58898bcda443aad566eb79a6b8a7324548cd4bdf959765a6d3fb293de97c75e54dd780b3692845be2864c0540c38bd12dc8a0251ad40858971bd8e7a065dfe87beb5f04d3d0f0686796032db825719ea7f9be853e1272b2e8e6e1bc9bf18e2be797d2b304bd0fba3005a0b5c0818882a5183e4ae5d714dc269c044b4283f017d884c74217897</UniqueId>
+		</Properties>
+	</Item>
+	<SharedStrings>
+		<SharedString md5="yuZpQdnvvUBOTYh1jqZ2cA=="/>
+	</SharedStrings>
+</roblox>
