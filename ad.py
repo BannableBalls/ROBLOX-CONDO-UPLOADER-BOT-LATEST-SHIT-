@@ -13,7 +13,7 @@ def advertise(gameId):
     }
 
     headers = {
-        'authorization': 'OTQ5ODIwNTEyNDkyNzQwNjY5.Yl1Cfw.x-0EWXkMl8oxFX-mx30iEDH63A8'
+        'authorization': 'OTa'
     }
     #UKIYOTHING
     r5 = requests.post('https://discord.com/api/v9/channels/959220260572123167/messages', headers=headers, json = jsonn)
